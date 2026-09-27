@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0e16">
+  <title>Supernatural · Arquivo de Caçadas</title>
+  <link rel="stylesheet" href="./style.css">
+  <script defer src="./local-store.js"></script>
+  <script defer src="./folder-backup.js"></script>
+  <script defer src="./app.js"></script>
+</head>
+<body >
+  <section id="auth" class="auth-screen" aria-labelledby="auth-title" hidden>
+    <div class="auth-panel">
+      <a class="brand auth-brand" href="./"><span class="brand-sigil" aria-hidden="true"></span><span>SUPERNATURAL<small>ARQUIVO DE CAÇADAS</small></span></a>
+      <div class="auth-copy"><p class="eyebrow">15 TEMPORADAS · 327 EPISÓDIOS</p><h1 id="auth-title">Sua próxima caçada começa aqui.</h1><p>Um guia para escolher os episódios e guardar o seu progresso.</p></div>
+      <div class="auth-tabs" role="group" aria-label="Acesso"><button id="tab-login" class="active" type="button">Entrar</button><button id="tab-register" type="button">Criar conta</button></div>
+      <form id="login-form" class="auth-form">
+        <label for="login-user">Usuário</label><input id="login-user" type="text" name="username" autocomplete="username" minlength="3" maxlength="30" required placeholder="Seu nome de usuário">
+        <label for="login-password">Senha</label><input id="login-password" type="password" name="password" autocomplete="current-password" required placeholder="Sua senha">
+        <button class="primary-button" type="submit">Entrar no arquivo <span aria-hidden="true">↗</span></button>
+        <p id="login-error" class="form-error" role="alert" hidden></p>
+      </form>
+      <form id="register-form" class="auth-form" hidden>
+        <p id="register-note" class="form-note"></p>
+        <label for="register-user">Crie um usuário</label><input id="register-user" type="text" name="username" autocomplete="username" pattern="[A-Za-z0-9_.-]{3,30}" minlength="3" maxlength="30" required placeholder="3 a 30 letras ou números">
+        <label for="register-password">Crie uma senha</label><input id="register-password" type="password" name="password" autocomplete="new-password" minlength="10" maxlength="128" required placeholder="No mínimo 10 caracteres">
+        <button id="register-submit" class="primary-button" type="submit">Criar conta <span aria-hidden="true">↗</span></button>
+        <p id="register-error" class="form-error" role="alert" hidden></p>
+      </form>
+    </div>
+    <footer class="auth-credits"><span>SUPERNATURAL · GUIA NÃO OFICIAL · CRIADO POR RAFAEL</span><span>Guia pessoal de episódios · Imagem e símbolo fornecidos para este projeto.</span></footer>
+  </section>
+
+  <div id="app" hidden>
+    <header class="topbar">
+      <button id="menu-toggle" class="menu-button" type="button" aria-label="Ocultar temporadas" aria-controls="desktop-sidebar drawer" aria-expanded="true"><span></span><span></span><span></span></button>
+      <a class="brand header-brand" href="./" data-link><span class="brand-sigil" aria-hidden="true"></span><span>SUPERNATURAL<small>ARQUIVO DE CAÇADAS</small></span></a>
+      <nav class="top-nav" aria-label="Navegação principal"><a href="./" data-link data-nav="home">Início</a><a href="./#/minha-lista" data-link data-nav="list">Minha lista</a><a href="./#/andamento" data-link data-nav="progress">Andamento</a></nav>
+      <div class="account"><button id="quick-backup" type="button" class="quick-backup" title="Salvar backup em uma pasta autorizada" aria-label="Salvar backup"><span class="quick-backup-label">Backup</span><span aria-hidden="true"> ↓</span></button><a id="settings-link" href="./#/ajustes" data-link aria-label="Conta e backups">Conta</a><span id="account-name" class="account-name"></span><button id="logout" type="button" class="logout-button">Sair</button></div>
+    </header>
+
+    <div id="drawer-backdrop" class="drawer-backdrop" hidden></div>
+    <aside id="drawer" class="drawer" role="dialog" aria-modal="true" aria-label="Atalhos de temporadas" hidden>
+      <div class="drawer-top"><strong>TEMPORADAS</strong><button id="drawer-close" type="button" aria-label="Fechar menu">✕</button></div>
+      <nav id="drawer-seasons" class="seasons-nav" aria-label="Atalho para temporadas"></nav>
+    </aside>
+
+    <div class="app-layout">
+      <aside id="desktop-sidebar" class="desktop-sidebar" aria-label="Temporadas"><p class="sidebar-caption">TEMPORADAS <span>01—15</span></p><nav id="desktop-seasons" class="seasons-nav" aria-label="Escolher temporada"></nav></aside>
+      <main id="main" class="main-content">
+        <section id="home-view" class="view" aria-labelledby="home-title" hidden>
+          <div class="hero"><span class="hero-sigil" aria-hidden="true"></span><div class="hero-content"><p class="eyebrow">GUIA DE EPISÓDIOS <span aria-hidden="true">/</span> 2005—2020</p><h1 id="home-title" class="spectral-title" data-echo="SUPERNATURAL">SUPERNATURAL</h1><p>Escolha uma temporada. Cada episódio mostra o quanto se aproxima da trama principal.</p><span class="hero-meta">15 TEMPORADAS &nbsp;·&nbsp; 327 EPISÓDIOS</span></div></div>
+          <div class="home-body">
+            <section class="level-legend" aria-labelledby="legend-title"><h2 id="legend-title">Proximidade da história principal</h2><div class="legend-rows"><div><span class="level-dot level-1">1</span><strong>Baixa</strong><span>Caso próprio</span></div><div><span class="level-dot level-2">2</span><strong>Leve</strong><span>Caça com contexto</span></div><div><span class="level-dot level-3">3</span><strong>Alta</strong><span>Caça e arco dividem o foco</span></div><div><span class="level-dot level-4">4</span><strong>Central</strong><span>Trama principal conduz</span></div></div><p>O tipo de criatura não define o nível; vale o peso da história principal no episódio.</p></section>
+            <section class="seasons-section" aria-labelledby="seasons-title"><div class="section-heading"><h2 id="seasons-title" class="spectral-title">Temporadas</h2><span>01 — 15</span></div><div id="season-grid" class="season-grid"></div></section>
+          </div>
+        </section>
+
+        <section id="season-view" class="view content-view" aria-labelledby="season-title" hidden>
+          <div class="page-head"><a href="./" data-link class="back-link">← Temporadas</a><div class="page-head-line"><div><p class="eyebrow">SUPERNATURAL / EPISÓDIOS</p><h1 id="season-title" class="spectral-title"></h1></div><span id="season-progress" class="head-count"></span></div></div>
+          <div id="season-filters" class="filters"></div><div class="results-line"><span id="season-results" aria-live="polite"></span></div><div id="season-episodes" class="episodes-grid"></div><div id="season-empty" class="empty-state" hidden>Nenhum episódio encontrado. Ajuste os filtros.</div>
+        </section>
+
+        <section id="list-view" class="view content-view" aria-labelledby="list-title" hidden>
+          <div class="page-head"><p class="eyebrow">SEU ARQUIVO</p><div class="page-head-line"><h1 id="list-title" class="spectral-title">Minha lista</h1><span id="list-count" class="head-count"></span></div></div>
+          <div id="list-filters" class="filters"></div><div class="results-line"><span id="list-results" aria-live="polite"></span></div><div id="list-episodes" class="episodes-grid"></div><div id="list-empty" class="empty-state" hidden>Nenhum episódio aqui ainda. Abra uma temporada e marque um episódio.</div>
+        </section>
+
+        <section id="progress-view" class="view content-view" aria-labelledby="progress-title" hidden>
+          <div class="page-head"><p class="eyebrow">SEU ARQUIVO</p><h1 id="progress-title" class="spectral-title">Andamento</h1></div>
+          <div id="progress-summary" class="progress-summary"></div><h2 class="subheading">Por temporada</h2><div id="progress-seasons" class="progress-seasons"></div>
+        </section>
+
+        <section id="settings-view" class="view content-view" aria-labelledby="settings-title" hidden>
+          <div class="page-head"><p class="eyebrow">SUA CONTA</p><h1 id="settings-title" class="spectral-title">Conta e backups</h1></div>
+          <div class="settings-box">
+            <p>Usuário: <strong id="settings-user"></strong></p>
+            <p>As marcações ficam neste navegador. Faça um backup em arquivo para poder recuperá-las em outro aparelho.</p>
+            <div class="setting-row"><div><strong>Backup na pasta escolhida</strong><p>Você escolhe a pasta e autoriza o navegador uma vez. Os próximos salvamentos atualizam o arquivo do dia.</p></div><button id="choose-backup-folder" type="button" class="outline-button">Escolher pasta</button></div>
+            <p id="backup-status" class="setting-note" role="status">Verificando a pasta de backup…</p>
+            <div class="setting-row"><div><strong>Salvar e recuperar</strong><p>Você também pode baixar um arquivo manualmente e importá-lo depois.</p></div><div class="backup-buttons"><button id="save-backup" type="button" class="outline-button">Salvar backup</button><button id="download-backup" type="button" class="outline-button">Baixar arquivo</button><button id="import-backup" type="button" class="outline-button">Importar arquivo</button></div></div>
+            <input id="backup-file" class="sr-only" type="file" accept=".json,application/json" aria-label="Selecionar arquivo de backup">
+            <div id="restore-preview" class="restore-preview" hidden><p id="restore-details"></p><div class="backup-buttons"><button id="confirm-restore" type="button" class="outline-button">Substituir minhas marcações</button><button id="cancel-restore" type="button" class="outline-button">Cancelar</button></div></div>
+            <p class="setting-note">Arquivos não incluem sua senha. Apagar os dados do site apaga as contas e as marcações deste navegador.</p>
+          </div>
+        </section>
+        <footer class="footer"><span>SUPERNATURAL · GUIA NÃO OFICIAL · CRIADO POR RAFAEL</span><span>Dados: <a href="https://www.tvmaze.com/shows/19/supernatural/episodes" target="_blank" rel="noopener noreferrer">TVmaze</a> · Títulos: <a href="https://watch.plex.tv/pt-BR/show/supernatural" target="_blank" rel="noopener noreferrer">Plex</a> / <a href="https://www.justwatch.com/br/serie/sobrenatural" target="_blank" rel="noopener noreferrer">JustWatch</a> · Imagens de destaque fornecidas para este projeto</span></footer>
+      </main>
+    </div>
+  </div>
+  <div id="toast" role="status" aria-live="polite" class="toast" hidden></div>
+</body>
+</html>

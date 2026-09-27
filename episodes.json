@@ -1,0 +1,3272 @@
+[
+  {
+    "key": "01x01",
+    "season": 1,
+    "number": 1,
+    "title": "Piloto",
+    "original_title": "Pilot",
+    "summary": "Dois irmãos retomam a estrada à procura do pai desaparecido e investigam uma aparição na estrada.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/991/supernatural-1x01-pilot"
+  },
+  {
+    "key": "01x02",
+    "season": 1,
+    "number": 2,
+    "title": "Wendigo",
+    "original_title": "Wendigo",
+    "summary": "Desaparecimentos numa floresta levam Sam e Dean à toca de uma criatura que caça viajantes.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/992/supernatural-1x02-wendigo"
+  },
+  {
+    "key": "01x03",
+    "season": 1,
+    "number": 3,
+    "title": "A Morte Na Água",
+    "original_title": "Dead in the Water",
+    "summary": "Uma sequência de afogamentos sem explicação esconde um espírito vingativo ligado à água.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/993/supernatural-1x03-dead-in-the-water"
+  },
+  {
+    "key": "01x04",
+    "season": 1,
+    "number": 4,
+    "title": "O Viajante Fantasma",
+    "original_title": "Phantom Traveler",
+    "summary": "Após um desastre aéreo, os irmãos investigam um demônio que ataca passageiros durante voos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/994/supernatural-1x04-phantom-traveler"
+  },
+  {
+    "key": "01x05",
+    "season": 1,
+    "number": 5,
+    "title": "Bloody Mary",
+    "original_title": "Bloody Mary",
+    "summary": "A lenda de Bloody Mary ganha vida quando mortes começam a ocorrer diante de espelhos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/995/supernatural-1x05-bloody-mary"
+  },
+  {
+    "key": "01x06",
+    "season": 1,
+    "number": 6,
+    "title": "Pele",
+    "original_title": "Skin",
+    "summary": "Um conhecido de Sam é acusado de assassinato, e as pistas apontam para um metamorfo.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/996/supernatural-1x06-skin"
+  },
+  {
+    "key": "01x07",
+    "season": 1,
+    "number": 7,
+    "title": "Homem Gancho",
+    "original_title": "Hook Man",
+    "summary": "Um espírito armado com um gancho assombra jovens ligados a uma família religiosa.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/997/supernatural-1x07-hook-man"
+  },
+  {
+    "key": "01x08",
+    "season": 1,
+    "number": 8,
+    "title": "Insetos",
+    "original_title": "Bugs",
+    "summary": "Insetos mortais infestam um condomínio construído em terras marcadas por uma antiga maldição.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/998/supernatural-1x08-bugs"
+  },
+  {
+    "key": "01x09",
+    "season": 1,
+    "number": 9,
+    "title": "Volta Ao Lar",
+    "original_title": "Home",
+    "summary": "Uma visão conduz os irmãos à antiga casa da família, onde uma assombração revela pistas do passado.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/999/supernatural-1x09-home"
+  },
+  {
+    "key": "01x10",
+    "season": 1,
+    "number": 10,
+    "title": "Asilo",
+    "original_title": "Asylum",
+    "summary": "Num hospital psiquiátrico abandonado, espíritos hostis ameaçam estudantes e os próprios irmãos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1000/supernatural-1x10-asylum"
+  },
+  {
+    "key": "01x11",
+    "season": 1,
+    "number": 11,
+    "title": "Espantalho",
+    "original_title": "Scarecrow",
+    "summary": "Dean investiga um espantalho assassino enquanto Sam segue uma pista sobre o paradeiro do pai.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1001/supernatural-1x11-scarecrow"
+  },
+  {
+    "key": "01x12",
+    "season": 1,
+    "number": 12,
+    "title": "Fé",
+    "original_title": "Faith",
+    "summary": "Para salvar Dean de uma doença fatal, Sam procura um curandeiro cujos milagres cobram um preço.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1002/supernatural-1x12-faith"
+  },
+  {
+    "key": "01x13",
+    "season": 1,
+    "number": 13,
+    "title": "Rota 666",
+    "original_title": "Route 666",
+    "summary": "Um caminhão sem motorista surge em uma série de mortes, levando Dean de volta a um antigo amor.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1003/supernatural-1x13-route-666"
+  },
+  {
+    "key": "01x14",
+    "season": 1,
+    "number": 14,
+    "title": "Pesadelo",
+    "original_title": "Nightmare",
+    "summary": "Uma visão de Sam antecipa uma morte estranha e revela um jovem com poderes perigosos.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1004/supernatural-1x14-nightmare"
+  },
+  {
+    "key": "01x15",
+    "season": 1,
+    "number": 15,
+    "title": "A Família Bender",
+    "original_title": "The Benders",
+    "summary": "Sam desaparece durante uma investigação, e Dean procura o irmão num caso de sequestros na região.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1005/supernatural-1x15-the-benders"
+  },
+  {
+    "key": "01x16",
+    "season": 1,
+    "number": 16,
+    "title": "Sombra",
+    "original_title": "Shadow",
+    "summary": "Uma sequência de mortes em Chicago leva os irmãos até Meg e uma armadilha para o pai deles.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1006/supernatural-1x16-shadow"
+  },
+  {
+    "key": "01x17",
+    "season": 1,
+    "number": 17,
+    "title": "Casa do Inferno",
+    "original_title": "Hell House",
+    "summary": "Uma lenda alimentada pela internet torna uma casa mal-assombrada cada vez mais perigosa.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1007/supernatural-1x17-hell-house"
+  },
+  {
+    "key": "01x18",
+    "season": 1,
+    "number": 18,
+    "title": "Alguma Coisa Maligna",
+    "original_title": "Something Wicked",
+    "summary": "Crianças entram em coma enquanto uma criatura noturna desperta uma lembrança dolorosa de Dean.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1008/supernatural-1x18-something-wicked"
+  },
+  {
+    "key": "01x19",
+    "season": 1,
+    "number": 19,
+    "title": "Procedência",
+    "original_title": "Provenance",
+    "summary": "Quem adquire um antigo retrato de família morre, e os irmãos buscam a origem da maldição.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1009/supernatural-1x19-provenance"
+  },
+  {
+    "key": "01x20",
+    "season": 1,
+    "number": 20,
+    "title": "O Sangue do Morto",
+    "original_title": "Dead Man's Blood",
+    "summary": "O assassinato de um caçador leva os Winchester a enfrentar vampiros e recuperar uma arma especial.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1010/supernatural-1x20-dead-mans-blood"
+  },
+  {
+    "key": "01x21",
+    "season": 1,
+    "number": 21,
+    "title": "Salvação",
+    "original_title": "Salvation",
+    "summary": "Uma visão sobre o demônio responsável pela tragédia da família põe pai e filhos em sua trilha.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1011/supernatural-1x21-salvation"
+  },
+  {
+    "key": "01x22",
+    "season": 1,
+    "number": 22,
+    "title": "Armadilha do Diabo",
+    "original_title": "Devil's Trap",
+    "summary": "Com a ajuda de Bobby, Sam e Dean tentam resgatar o pai e confrontar o demônio que perseguem.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1012/supernatural-1x22-devils-trap"
+  },
+  {
+    "key": "02x01",
+    "season": 2,
+    "number": 1,
+    "title": "Na Hora da Minha Morte",
+    "original_title": "In My Time of Dying",
+    "summary": "Após um acidente grave, a família luta pela vida de um dos Winchester e enfrenta uma escolha extrema.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1013/supernatural-2x01-in-my-time-of-dying"
+  },
+  {
+    "key": "02x02",
+    "season": 2,
+    "number": 2,
+    "title": "Todos Amam o Palhaço",
+    "original_title": "Everybody Loves a Clown",
+    "summary": "Os irmãos conhecem outros caçadores enquanto investigam um palhaço que entra nas casas de crianças.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1014/supernatural-2x02-everybody-loves-a-clown"
+  },
+  {
+    "key": "02x03",
+    "season": 2,
+    "number": 3,
+    "title": "Sede de Sangue",
+    "original_title": "Bloodlust",
+    "summary": "Uma caçada a vampiros se complica quando Sam desconfia dos métodos de um caçador veterano.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1015/supernatural-2x03-bloodlust"
+  },
+  {
+    "key": "02x04",
+    "season": 2,
+    "number": 4,
+    "title": "Crianças Não Devem Brincar com Coisas Mortas",
+    "original_title": "Children Shouldn't Play with Dead Things",
+    "summary": "Uma jovem morta retorna para acertar contas, e os irmãos investigam quem a trouxe de volta.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1016/supernatural-2x04-children-shouldnt-play-with-dead-things"
+  },
+  {
+    "key": "02x05",
+    "season": 2,
+    "number": 5,
+    "title": "Ele Disse",
+    "original_title": "Simon Said",
+    "summary": "Mortes ao redor de um jovem com poderes mentais fazem Sam questionar a origem das próprias habilidades.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1017/supernatural-2x05-simon-said"
+  },
+  {
+    "key": "02x06",
+    "season": 2,
+    "number": 6,
+    "title": "Sem Saída",
+    "original_title": "No Exit",
+    "summary": "Jo acompanha os irmãos na perseguição ao fantasma de um assassino em série num prédio.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1018/supernatural-2x06-no-exit"
+  },
+  {
+    "key": "02x07",
+    "season": 2,
+    "number": 7,
+    "title": "Os Suspeitos Habituais",
+    "original_title": "The Usual Suspects",
+    "summary": "Detidos como suspeitos de homicídio, Sam e Dean precisam convencer uma investigadora de que há um fantasma.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1019/supernatural-2x07-the-usual-suspects"
+  },
+  {
+    "key": "02x08",
+    "season": 2,
+    "number": 8,
+    "title": "O Blues da Encruzilhada",
+    "original_title": "Crossroad Blues",
+    "summary": "Mortes ligadas a pactos de encruzilhada levam os irmãos até uma demônia que negocia almas.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1020/supernatural-2x08-crossroad-blues"
+  },
+  {
+    "key": "02x09",
+    "season": 2,
+    "number": 9,
+    "title": "Croatoan",
+    "original_title": "Croatoan",
+    "summary": "Um surto violento isola uma cidade e se mistura aos segredos que Sam e Dean carregam.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1021/supernatural-2x09-croatoan"
+  },
+  {
+    "key": "02x10",
+    "season": 2,
+    "number": 10,
+    "title": "Caçado",
+    "original_title": "Hunted",
+    "summary": "Sam encontra outra pessoa com visões enquanto Dean tenta protegê-lo de um caçador implacável.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1022/supernatural-2x10-hunted"
+  },
+  {
+    "key": "02x11",
+    "season": 2,
+    "number": 11,
+    "title": "Brinquedos",
+    "original_title": "Playthings",
+    "summary": "Mortes numa hospedaria parecem ligadas à amiga imaginária de uma menina.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1023/supernatural-2x11-playthings"
+  },
+  {
+    "key": "02x12",
+    "season": 2,
+    "number": 12,
+    "title": "Caminhante Noturno",
+    "original_title": "Nightshifter",
+    "summary": "Roubos e suicídios impossíveis levam os irmãos a um metamorfo dentro de um banco.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1024/supernatural-2x12-nightshifter"
+  },
+  {
+    "key": "02x13",
+    "season": 2,
+    "number": 13,
+    "title": "Casas do Sagrado",
+    "original_title": "Houses of the Holy",
+    "summary": "Assassinos alegam obedecer a um anjo, e os irmãos investigam quem realmente está por trás das mortes.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1025/supernatural-2x13-houses-of-the-holy"
+  },
+  {
+    "key": "02x14",
+    "season": 2,
+    "number": 14,
+    "title": "Nascido Num Signo Ruim",
+    "original_title": "Born Under a Bad Sign",
+    "summary": "Sam reaparece sem memória e com indícios de que matou um caçador; Dean tenta descobrir o que aconteceu.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1026/supernatural-2x14-born-under-a-bad-sign"
+  },
+  {
+    "key": "02x15",
+    "season": 2,
+    "number": 15,
+    "title": "Exagerado",
+    "original_title": "Tall Tales",
+    "summary": "Bobby ajuda a investigar ocorrências absurdas num campus universitário enquanto os irmãos brigam entre si.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1027/supernatural-2x15-tall-tales"
+  },
+  {
+    "key": "02x16",
+    "season": 2,
+    "number": 16,
+    "title": "O Fantasma da Estrada",
+    "original_title": "Roadkill",
+    "summary": "Uma mulher pede socorro numa estrada deserta e é perseguida por um espírito recorrente.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1028/supernatural-2x16-roadkill"
+  },
+  {
+    "key": "02x17",
+    "season": 2,
+    "number": 17,
+    "title": "Dolorosa Missão",
+    "original_title": "Heart",
+    "summary": "A busca por um lobisomem se torna pessoal quando Sam se aproxima de uma possível vítima.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1029/supernatural-2x17-heart"
+  },
+  {
+    "key": "02x18",
+    "season": 2,
+    "number": 18,
+    "title": "Assombração em Hollywood",
+    "original_title": "Hollywood Babylon",
+    "summary": "Num set de filme de terror, uma falsa assombração dá lugar a mortes de verdade.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1030/supernatural-2x18-hollywood-babylon"
+  },
+  {
+    "key": "02x19",
+    "season": 2,
+    "number": 19,
+    "title": "No Xadrez",
+    "original_title": "Folsom Prison Blues",
+    "summary": "Para deter um fantasma que mata presos, os irmãos entram numa penitenciária como detentos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1031/supernatural-2x19-folsom-prison-blues"
+  },
+  {
+    "key": "02x20",
+    "season": 2,
+    "number": 20,
+    "title": "Apenas um Sonho",
+    "original_title": "What Is and What Should Never Be",
+    "summary": "Um djinn oferece a Dean uma realidade em que a família nunca sofreu a perda de Mary.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1032/supernatural-2x20-what-is-and-what-should-never-be"
+  },
+  {
+    "key": "02x21",
+    "season": 2,
+    "number": 21,
+    "title": "Demônios à Solta, Parte 1",
+    "original_title": "All Hell Breaks Loose: Part One",
+    "summary": "Sam é levado a uma cidade fantasma com outros jovens dotados de poderes para o plano do demônio.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1033/supernatural-2x21-all-hell-breaks-loose-part-one"
+  },
+  {
+    "key": "02x22",
+    "season": 2,
+    "number": 22,
+    "title": "Demônios à Solta, Parte 2",
+    "original_title": "All Hell Breaks Loose: Part Two",
+    "summary": "Dean lida com as consequências do confronto enquanto um portal ameaça liberar mais demônios.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1034/supernatural-2x22-all-hell-breaks-loose-part-two"
+  },
+  {
+    "key": "03x01",
+    "season": 3,
+    "number": 1,
+    "title": "Os Sete Magníficos",
+    "original_title": "The Magnificent Seven",
+    "summary": "Demônios recém-libertos surgem numa cidade, e os irmãos enfrentam uma ameaça ligada aos sete pecados.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1035/supernatural-3x01-the-magnificent-seven"
+  },
+  {
+    "key": "03x02",
+    "season": 3,
+    "number": 2,
+    "title": "Tudo Bem com as Crianças",
+    "original_title": "The Kids Are Alright",
+    "summary": "Dean visita Lisa, mas desaparecimentos de crianças revelam uma criatura capaz de assumir seus lugares.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1036/supernatural-3x02-the-kids-are-alright"
+  },
+  {
+    "key": "03x03",
+    "season": 3,
+    "number": 3,
+    "title": "Dia Ruim em Black Rock",
+    "original_title": "Bad Day at Black Rock",
+    "summary": "Um pé de coelho amaldiçoado dá sorte extraordinária a Sam antes de colocar sua vida em risco.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1037/supernatural-3x03-bad-day-at-black-rock"
+  },
+  {
+    "key": "03x04",
+    "season": 3,
+    "number": 4,
+    "title": "Cidade do Pecado",
+    "original_title": "Sin City",
+    "summary": "Uma cidade mergulha em violência e vícios sob a influência de demônios infiltrados.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1038/supernatural-3x04-sin-city"
+  },
+  {
+    "key": "03x05",
+    "season": 3,
+    "number": 5,
+    "title": "Histórias para Dormir",
+    "original_title": "Bedtime Stories",
+    "summary": "Assassinatos imitam contos de fadas enquanto Sam procura uma saída para o pacto de Dean.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1039/supernatural-3x05-bedtime-stories"
+  },
+  {
+    "key": "03x06",
+    "season": 3,
+    "number": 6,
+    "title": "Céu Vermelho",
+    "original_title": "Red Sky at Morning",
+    "summary": "Vítimas aparecem afogadas longe da água depois de avistarem um misterioso navio fantasma.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1040/supernatural-3x06-red-sky-at-morning"
+  },
+  {
+    "key": "03x07",
+    "season": 3,
+    "number": 7,
+    "title": "Sangue Fresco",
+    "original_title": "Fresh Blood",
+    "summary": "Os irmãos investigam vampiras transformadas sem saber e cruzam novamente o caminho de Gordon.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1041/supernatural-3x07-fresh-blood"
+  },
+  {
+    "key": "03x08",
+    "season": 3,
+    "number": 8,
+    "title": "Um Natal Muito Sobrenatural",
+    "original_title": "A Very Supernatural Christmas",
+    "summary": "Desaparecimentos pelas chaminés levam a uma caça natalina com raízes em lendas pagãs.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1042/supernatural-3x08-a-very-supernatural-christmas"
+  },
+  {
+    "key": "03x09",
+    "season": 3,
+    "number": 9,
+    "title": "Magia Negra",
+    "original_title": "Malleus Maleficarum",
+    "summary": "Um grupo de bruxas mata moradores de uma cidade, e Ruby alerta para algo mais poderoso por trás delas.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1043/supernatural-3x09-malleus-maleficarum"
+  },
+  {
+    "key": "03x10",
+    "season": 3,
+    "number": 10,
+    "title": "Sonhe Comigo",
+    "original_title": "Dream a Little Dream of Me",
+    "summary": "Para tirar Bobby de um coma, os irmãos entram num mundo de sonhos repleto de pesadelos.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1044/supernatural-3x10-dream-a-little-dream-of-me"
+  },
+  {
+    "key": "03x11",
+    "season": 3,
+    "number": 11,
+    "title": "Local Misterioso",
+    "original_title": "Mystery Spot",
+    "summary": "Numa investigação aparentemente comum, Sam fica preso num dia que termina repetidamente com a morte de Dean.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1045/supernatural-3x11-mystery-spot"
+  },
+  {
+    "key": "03x12",
+    "season": 3,
+    "number": 12,
+    "title": "Terror na Delegacia",
+    "original_title": "Jus in Bello",
+    "summary": "Presos numa delegacia, os irmãos precisam deter uma invasão demoníaca e convencer um agente federal.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1046/supernatural-3x12-jus-in-bello"
+  },
+  {
+    "key": "03x13",
+    "season": 3,
+    "number": 13,
+    "title": "O Fantasma Bissexto",
+    "original_title": "Ghostfacers",
+    "summary": "Uma equipe de caça paranormal grava uma noite numa mansão onde a assombração é bem real.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1047/supernatural-3x13-ghostfacers"
+  },
+  {
+    "key": "03x14",
+    "season": 3,
+    "number": 14,
+    "title": "O Interurbano",
+    "original_title": "Long Distance Call",
+    "summary": "Telefonemas de pessoas mortas começam a enganar famílias, inclusive Dean, que recebe uma ligação do pai.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1048/supernatural-3x14-long-distance-call"
+  },
+  {
+    "key": "03x15",
+    "season": 3,
+    "number": 15,
+    "title": "O Tempo Está do Meu Lado",
+    "original_title": "Time is on My Side",
+    "summary": "Uma investigação sobre supostos zumbis revela um médico obcecado em prolongar a própria vida.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1049/supernatural-3x15-time-is-on-my-side"
+  },
+  {
+    "key": "03x16",
+    "season": 3,
+    "number": 16,
+    "title": "Enfrentando o Capeta",
+    "original_title": "No Rest for the Wicked",
+    "summary": "O prazo do pacto de Dean acaba, e os irmãos procuram Lilith numa corrida contra o tempo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1050/supernatural-3x16-no-rest-for-the-wicked"
+  },
+  {
+    "key": "04x01",
+    "season": 4,
+    "number": 1,
+    "title": "A Ressurreição de Lazaro",
+    "original_title": "Lazarus Rising",
+    "summary": "Dean retorna inexplicavelmente do Inferno, e os irmãos procuram quem o libertou e por quê.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1051/supernatural-4x01-lazarus-rising"
+  },
+  {
+    "key": "04x02",
+    "season": 4,
+    "number": 2,
+    "title": "Deus está? Sou eu, Dean Winchester",
+    "original_title": "Are You There, God? It's Me, Dean Winchester",
+    "summary": "Espíritos de pessoas conhecidas atacam os Winchester e Bobby em meio aos sinais de uma ameaça maior.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1052/supernatural-4x02-are-you-there-god-its-me-dean-winchester"
+  },
+  {
+    "key": "04x03",
+    "season": 4,
+    "number": 3,
+    "title": "No Início",
+    "original_title": "In the Beginning",
+    "summary": "Dean é enviado ao passado e encontra os pais antes de nascer para descobrir um segredo da família.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1053/supernatural-4x03-in-the-beginning"
+  },
+  {
+    "key": "04x04",
+    "season": 4,
+    "number": 4,
+    "title": "Metamorfose",
+    "original_title": "Metamorphosis",
+    "summary": "Um homem está se tornando um rugaru, e Sam quer descobrir se ele ainda pode resistir à transformação.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1054/supernatural-4x04-metamorphosis"
+  },
+  {
+    "key": "04x05",
+    "season": 4,
+    "number": 5,
+    "title": "Filme de Monstro",
+    "original_title": "Monster Movie",
+    "summary": "Crimes inspirados em monstros clássicos levam a uma caça em preto e branco durante uma festa.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1055/supernatural-4x05-monster-movie"
+  },
+  {
+    "key": "04x06",
+    "season": 4,
+    "number": 6,
+    "title": "Febre Amarela",
+    "original_title": "Yellow Fever",
+    "summary": "Dean contrai uma doença sobrenatural que transforma o medo em uma ameaça mortal.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1056/supernatural-4x06-yellow-fever"
+  },
+  {
+    "key": "04x07",
+    "season": 4,
+    "number": 7,
+    "title": "Dia das Bruxas",
+    "original_title": "It's the Great Pumpkin, Sam Winchester",
+    "summary": "Sacrifícios de Halloween indicam a invocação de Samhain e colocam anjos e caçadores em lados diferentes.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1057/supernatural-4x07-its-the-great-pumpkin-sam-winchester"
+  },
+  {
+    "key": "04x08",
+    "season": 4,
+    "number": 8,
+    "title": "A Fonte dos Desejos",
+    "original_title": "Wishful Thinking",
+    "summary": "Um poço dos desejos realiza pedidos numa cidade, mas as consequências saem do controle.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1058/supernatural-4x08-wishful-thinking"
+  },
+  {
+    "key": "04x09",
+    "season": 4,
+    "number": 9,
+    "title": "Eu Sei o Que Você Fez no Verão Passado",
+    "original_title": "I Know What You Did Last Summer",
+    "summary": "Uma jovem capaz de ouvir anjos se torna alvo de demônios, e os irmãos tentam protegê-la.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1059/supernatural-4x09-i-know-what-you-did-last-summer"
+  },
+  {
+    "key": "04x10",
+    "season": 4,
+    "number": 10,
+    "title": "Céu e Inferno",
+    "original_title": "Heaven and Hell",
+    "summary": "Sam e Dean tentam salvar Anna enquanto anjos e demônios disputam seu destino.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1060/supernatural-4x10-heaven-and-hell"
+  },
+  {
+    "key": "04x11",
+    "season": 4,
+    "number": 11,
+    "title": "Vestígios de Família",
+    "original_title": "Family Remains",
+    "summary": "Uma família entra numa casa aparentemente assombrada, e os irmãos descobrem que o perigo é mais concreto.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1061/supernatural-4x11-family-remains"
+  },
+  {
+    "key": "04x12",
+    "season": 4,
+    "number": 12,
+    "title": "Criss Angel é um Idiota",
+    "original_title": "Criss Angel is a Douchebag",
+    "summary": "Mortes entre mágicos idosos levam Sam e Dean à origem de poderes que parecem reais.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1062/supernatural-4x12-criss-angel-is-a-douchebag"
+  },
+  {
+    "key": "04x13",
+    "season": 4,
+    "number": 13,
+    "title": "Especial Depois da Aula",
+    "original_title": "After School Special",
+    "summary": "Um caso de assassinato na antiga escola dos irmãos revive lembranças da adolescência.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1063/supernatural-4x13-after-school-special"
+  },
+  {
+    "key": "04x14",
+    "season": 4,
+    "number": 14,
+    "title": "Sexo e Violência",
+    "original_title": "Sex and Violence",
+    "summary": "Uma sereia provoca crimes entre pessoas apaixonadas e coloca Sam e Dean um contra o outro.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1064/supernatural-4x14-sex-and-violence"
+  },
+  {
+    "key": "04x15",
+    "season": 4,
+    "number": 15,
+    "title": "A Morte Tira Férias",
+    "original_title": "Death Takes a Holiday",
+    "summary": "Ninguém consegue morrer numa cidade, e o sumiço de ceifadores aponta para mais um selo do apocalipse.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1065/supernatural-4x15-death-takes-a-holiday"
+  },
+  {
+    "key": "04x16",
+    "season": 4,
+    "number": 16,
+    "title": "Na Cabeça do Alfinete",
+    "original_title": "On the Head of a Pin",
+    "summary": "Anjos convocam Dean para interrogar um demônio sobre assassinatos celestiais e selos quebrados.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1066/supernatural-4x16-on-the-head-of-a-pin"
+  },
+  {
+    "key": "04x17",
+    "season": 4,
+    "number": 17,
+    "title": "Que Vida Terrível",
+    "original_title": "It's a Terrible Life",
+    "summary": "Num mundo em que não se conhecem, Sam e Dean investigam mortes no escritório onde trabalham.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1067/supernatural-4x17-its-a-terrible-life"
+  },
+  {
+    "key": "04x18",
+    "season": 4,
+    "number": 18,
+    "title": "O Monstro no Final do Livro",
+    "original_title": "The Monster at the End of This Book",
+    "summary": "Os irmãos encontram livros que descrevem sua vida e tentam entender as visões do autor.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1068/supernatural-4x18-the-monster-at-the-end-of-this-book"
+  },
+  {
+    "key": "04x19",
+    "season": 4,
+    "number": 19,
+    "title": "O Irmão",
+    "original_title": "Jump the Shark",
+    "summary": "Um rapaz diz ser outro filho de John, e o reencontro familiar se transforma numa investigação perigosa.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1069/supernatural-4x19-jump-the-shark"
+  },
+  {
+    "key": "04x20",
+    "season": 4,
+    "number": 20,
+    "title": "A Forma de um Anjo",
+    "original_title": "The Rapture",
+    "summary": "O homem que serve de receptáculo a Castiel tenta voltar para a família enquanto os irmãos o acompanham.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1070/supernatural-4x20-the-rapture"
+  },
+  {
+    "key": "04x21",
+    "season": 4,
+    "number": 21,
+    "title": "Quando Rompe a Represa",
+    "original_title": "When the Levee Breaks",
+    "summary": "O uso de sangue demoníaco por Sam causa uma ruptura com Dean às vésperas de novos selos serem quebrados.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1071/supernatural-4x21-when-the-levee-breaks"
+  },
+  {
+    "key": "04x22",
+    "season": 4,
+    "number": 22,
+    "title": "A Ascensão de Lúcifer",
+    "original_title": "Lucifer Rising",
+    "summary": "Sam e Dean seguem caminhos opostos para impedir Lilith e a libertação de Lúcifer.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1072/supernatural-4x22-lucifer-rising"
+  },
+  {
+    "key": "05x01",
+    "season": 5,
+    "number": 1,
+    "title": "Simpatia para o Diabo",
+    "original_title": "Sympathy for the Devil",
+    "summary": "Lúcifer está livre, e os irmãos enfrentam as consequências imediatas do início do apocalipse.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1073/supernatural-5x01-sympathy-for-the-devil"
+  },
+  {
+    "key": "05x02",
+    "season": 5,
+    "number": 2,
+    "title": "Fiquem Com Deus!",
+    "original_title": "Good God, Y'all!",
+    "summary": "Numa cidade tomada por ataques, moradores enxergam demônios uns nos outros e precisam ser salvos.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1074/supernatural-5x02-good-god-yall"
+  },
+  {
+    "key": "05x03",
+    "season": 5,
+    "number": 3,
+    "title": "Livres Para Voar",
+    "original_title": "Free to Be You and Me",
+    "summary": "Sam tenta abandonar a caça enquanto Dean e Castiel buscam uma pista sobre Deus e o apocalipse.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1075/supernatural-5x03-free-to-be-you-and-me"
+  },
+  {
+    "key": "05x04",
+    "season": 5,
+    "number": 4,
+    "title": "Fim",
+    "original_title": "The End",
+    "summary": "Dean visita um futuro devastado pela infecção Croatoan e pelas escolhas feitas durante o apocalipse.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1076/supernatural-5x04-the-end"
+  },
+  {
+    "key": "05x05",
+    "season": 5,
+    "number": 5,
+    "title": "Ídolos Caídos",
+    "original_title": "Fallen Idols",
+    "summary": "Mortes atribuídas a figuras famosas levam os irmãos a investigar uma criatura que assume formas improváveis.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1077/supernatural-5x05-fallen-idols"
+  },
+  {
+    "key": "05x06",
+    "season": 5,
+    "number": 6,
+    "title": "As Crianças São O Futuro",
+    "original_title": "I Believe the Children are Our Future",
+    "summary": "Lendas urbanas começam a se realizar ao redor de um menino cujas crenças alteram a realidade.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1078/supernatural-5x06-i-believe-the-children-are-our-future"
+  },
+  {
+    "key": "05x07",
+    "season": 5,
+    "number": 7,
+    "title": "O Curioso Caso de Dean Winchester",
+    "original_title": "The Curious Case of Dean Winchester",
+    "summary": "Bobby aposta anos de vida num jogo sobrenatural de pôquer e os irmãos tentam reverter a perda.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1079/supernatural-5x07-the-curious-case-of-dean-winchester"
+  },
+  {
+    "key": "05x08",
+    "season": 5,
+    "number": 8,
+    "title": "Trocando De Canal",
+    "original_title": "Changing Channels",
+    "summary": "Presos em programas de televisão, os irmãos enfrentam jogos, novelas e uma revelação sobre o apocalipse.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1080/supernatural-5x08-changing-channels"
+  },
+  {
+    "key": "05x09",
+    "season": 5,
+    "number": 9,
+    "title": "Os Verdadeiros Caça-Fantasmas",
+    "original_title": "The Real Ghostbusters",
+    "summary": "Numa convenção sobre suas próprias aventuras, Sam e Dean encontram fantasmas de verdade.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1081/supernatural-5x09-the-real-ghostbusters"
+  },
+  {
+    "key": "05x10",
+    "season": 5,
+    "number": 10,
+    "title": "Abandone A Esperança..",
+    "original_title": "Abandon All Hope...",
+    "summary": "Uma equipe de caçadores tenta encontrar Lúcifer e usar o Colt contra ele.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1082/supernatural-5x10-abandon-all-hope"
+  },
+  {
+    "key": "05x11",
+    "season": 5,
+    "number": 11,
+    "title": "Sam, Interrompido",
+    "original_title": "Sam, Interrupted",
+    "summary": "Sam e Dean se internam num hospital psiquiátrico para identificar a criatura que ataca pacientes.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1083/supernatural-5x11-sam-interrupted"
+  },
+  {
+    "key": "05x12",
+    "season": 5,
+    "number": 12,
+    "title": "Troca de Corpos",
+    "original_title": "Swap Meat",
+    "summary": "Um adolescente troca de corpo com Sam, e Dean precisa perceber quem está ao seu lado.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1084/supernatural-5x12-swap-meat"
+  },
+  {
+    "key": "05x13",
+    "season": 5,
+    "number": 13,
+    "title": "Sempre A Mesma Canção",
+    "original_title": "The Song Remains the Same",
+    "summary": "Os irmãos voltam a 1978 para impedir que um anjo mate John e Mary antes do nascimento de Sam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1085/supernatural-5x13-the-song-remains-the-same"
+  },
+  {
+    "key": "05x14",
+    "season": 5,
+    "number": 14,
+    "title": "Amores Sangrentos",
+    "original_title": "My Bloody Valentine",
+    "summary": "Mortes violentas no Dia dos Namorados conduzem os irmãos ao Cavaleiro Fome.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1086/supernatural-5x14-my-bloody-valentine"
+  },
+  {
+    "key": "05x15",
+    "season": 5,
+    "number": 15,
+    "title": "Os Mortos Pedem Vingança",
+    "original_title": "Dead Men Don't Wear Plaid",
+    "summary": "Mortos voltam para casa e parecem inofensivos, mas o fenômeno ameaça a cidade de Bobby.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1087/supernatural-5x15-dead-men-dont-wear-plaid"
+  },
+  {
+    "key": "05x16",
+    "season": 5,
+    "number": 16,
+    "title": "O Lado Escuro da Lua",
+    "original_title": "Dark Side of the Moon",
+    "summary": "Após morrerem, Sam e Dean percorrem o Céu em busca de alguém que possa ajudá-los.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1088/supernatural-5x16-dark-side-of-the-moon"
+  },
+  {
+    "key": "05x17",
+    "season": 5,
+    "number": 17,
+    "title": "99 Problemas",
+    "original_title": "99 Problems",
+    "summary": "Uma comunidade treinada para lutar contra demônios cai sob a influência de uma falsa profetisa.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1089/supernatural-5x17-99-problems"
+  },
+  {
+    "key": "05x18",
+    "season": 5,
+    "number": 18,
+    "title": "Caminho Sem Volta",
+    "original_title": "Point of No Return",
+    "summary": "Dean considera aceitar o plano dos anjos, enquanto os irmãos tentam evitar uma guerra devastadora.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1090/supernatural-5x18-point-of-no-return"
+  },
+  {
+    "key": "05x19",
+    "season": 5,
+    "number": 19,
+    "title": "O Martelo dos Deuses",
+    "original_title": "Hammer of the Gods",
+    "summary": "Deuses de diferentes tradições sequestram os irmãos num hotel para negociar o fim do apocalipse.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1091/supernatural-5x19-hammer-of-the-gods"
+  },
+  {
+    "key": "05x20",
+    "season": 5,
+    "number": 20,
+    "title": "O Diabo Conhecido",
+    "original_title": "The Devil You Know",
+    "summary": "Crowley oferece uma pista para encontrar os anéis dos Cavaleiros e deter Lúcifer.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1092/supernatural-5x20-the-devil-you-know"
+  },
+  {
+    "key": "05x21",
+    "season": 5,
+    "number": 21,
+    "title": "Dois Minutos para A Meia-Noite",
+    "original_title": "Two Minutes to Midnight",
+    "summary": "Com os últimos anéis em jogo, os irmãos enfrentam Pestilência e buscam uma aliança com a Morte.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1093/supernatural-5x21-two-minutes-to-midnight"
+  },
+  {
+    "key": "05x22",
+    "season": 5,
+    "number": 22,
+    "title": "Canção do Cisne",
+    "original_title": "Swan Song",
+    "summary": "Sam e Dean colocam em prática a tentativa final de encerrar o apocalipse.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1094/supernatural-5x22-swan-song"
+  },
+  {
+    "key": "06x01",
+    "season": 6,
+    "number": 1,
+    "title": "Exílio na Rua Principal",
+    "original_title": "Exile on Main St.",
+    "summary": "Após um ano afastado da caça, Dean reencontra Sam e conhece novos membros da família materna.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1095/supernatural-6x01-exile-on-main-st"
+  },
+  {
+    "key": "06x02",
+    "season": 6,
+    "number": 2,
+    "title": "Dois Homens e Meio",
+    "original_title": "Two and a Half Men",
+    "summary": "Pais são assassinados e bebês desaparecem; os irmãos tentam proteger uma criança ligada ao caso.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1096/supernatural-6x02-two-and-a-half-men"
+  },
+  {
+    "key": "06x03",
+    "season": 6,
+    "number": 3,
+    "title": "O Terceiro Homem",
+    "original_title": "The Third Man",
+    "summary": "Policiais morrem como nas pragas bíblicas, e Castiel aponta o roubo de uma arma celestial.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1097/supernatural-6x03-the-third-man"
+  },
+  {
+    "key": "06x04",
+    "season": 6,
+    "number": 4,
+    "title": "Fim de Semana na Casa do Bobby",
+    "original_title": "Weekend at Bobby's",
+    "summary": "Bobby prepara um plano para recuperar a própria alma das mãos de Crowley.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1098/supernatural-6x04-weekend-at-bobbys"
+  },
+  {
+    "key": "06x05",
+    "season": 6,
+    "number": 5,
+    "title": "Viva Livre ou no Crepúsculo",
+    "original_title": "Live Free or Twihard",
+    "summary": "Uma cidade sofre ataques de vampiros, e Dean se infiltra num ninho após ser transformado.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1099/supernatural-6x05-live-free-or-twihard"
+  },
+  {
+    "key": "06x06",
+    "season": 6,
+    "number": 6,
+    "title": "Você não Aguenta a Verdade",
+    "original_title": "You Can't Handle the Truth",
+    "summary": "Uma força obriga pessoas a ouvir verdades cruéis, levando vítimas ao desespero.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1100/supernatural-6x06-you-cant-handle-the-truth"
+  },
+  {
+    "key": "06x07",
+    "season": 6,
+    "number": 7,
+    "title": "Assunto de Família",
+    "original_title": "Family Matters",
+    "summary": "Uma missão com a família Campbell revela interesses ocultos e aprofunda as suspeitas de Dean.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1101/supernatural-6x07-family-matters"
+  },
+  {
+    "key": "06x08",
+    "season": 6,
+    "number": 8,
+    "title": "Todos os Cães Vão para o Céu",
+    "original_title": "All Dogs Go to Heaven",
+    "summary": "Ataques atribuídos a lobisomens levam a um metamorfo infiltrado numa família como animal de estimação.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1102/supernatural-6x08-all-dogs-go-to-heaven"
+  },
+  {
+    "key": "06x09",
+    "season": 6,
+    "number": 9,
+    "title": "Bata Palmas se Você Acredita",
+    "original_title": "Clap Your Hands If You Believe",
+    "summary": "Um suposto caso de abdução alienígena revela um mundo de fadas e criaturas folclóricas.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1103/supernatural-6x09-clap-your-hands-if-you-believe"
+  },
+  {
+    "key": "06x10",
+    "season": 6,
+    "number": 10,
+    "title": "Fogo Enjaulado",
+    "original_title": "Caged Heat",
+    "summary": "Meg força os irmãos a encontrar Crowley para descobrir como recuperar a alma de Sam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1104/supernatural-6x10-caged-heat"
+  },
+  {
+    "key": "06x11",
+    "season": 6,
+    "number": 11,
+    "title": "Encontro em Samara",
+    "original_title": "Appointment in Samarra",
+    "summary": "Dean aceita trabalhar por um dia como a Morte em troca de uma chance de salvar Sam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1105/supernatural-6x11-appointment-in-samarra"
+  },
+  {
+    "key": "06x12",
+    "season": 6,
+    "number": 12,
+    "title": "Como uma Virgem",
+    "original_title": "Like a Virgin",
+    "summary": "Desaparecimentos de jovens revelam dragões, enquanto Sam se recupera de uma mudança decisiva.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1106/supernatural-6x12-like-a-virgin"
+  },
+  {
+    "key": "06x13",
+    "season": 6,
+    "number": 13,
+    "title": "Imperdoável",
+    "original_title": "Unforgiven",
+    "summary": "Uma mensagem leva os irmãos à cidade onde Sam caçou antes de voltar a trabalhar com Dean.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1107/supernatural-6x13-unforgiven"
+  },
+  {
+    "key": "06x14",
+    "season": 6,
+    "number": 14,
+    "title": "Manequim 3: O Confronto",
+    "original_title": "Mannequin 3: The Reckoning",
+    "summary": "Objetos parecem atacar antigos colegas de uma mulher desaparecida, e Sam investiga o motivo.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1108/supernatural-6x14-mannequin-3-the-reckoning"
+  },
+  {
+    "key": "06x15",
+    "season": 6,
+    "number": 15,
+    "title": "Outro Universo",
+    "original_title": "The French Mistake",
+    "summary": "Uma fuga para outro universo transforma os irmãos em atores de uma série chamada Supernatural.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1109/supernatural-6x15-the-french-mistake"
+  },
+  {
+    "key": "06x16",
+    "season": 6,
+    "number": 16,
+    "title": "...Não Restou Nenhum",
+    "original_title": "And Then There Were None",
+    "summary": "Uma criatura ligada à Mãe de Todos reúne os irmãos, Bobby e os Campbell na mesma caçada.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1110/supernatural-6x16-and-then-there-were-none"
+  },
+  {
+    "key": "06x17",
+    "season": 6,
+    "number": 17,
+    "title": "Meu Coração Vais Seguir",
+    "original_title": "My Heart Will Go On",
+    "summary": "O Titanic nunca afundou numa nova realidade, e o Destino começa a matar quem deveria ter morrido.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1111/supernatural-6x17-my-heart-will-go-on"
+  },
+  {
+    "key": "06x18",
+    "season": 6,
+    "number": 18,
+    "title": "Terra de Fronteira",
+    "original_title": "Frontierland",
+    "summary": "Em busca de uma arma contra Eva, os irmãos viajam ao Velho Oeste para encontrar Samuel Colt.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1112/supernatural-6x18-frontierland"
+  },
+  {
+    "key": "06x19",
+    "season": 6,
+    "number": 19,
+    "title": "Mamãezinha Querida",
+    "original_title": "Mommy Dearest",
+    "summary": "Os caçadores seguem Eva até uma cidade dominada por suas criaturas.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1113/supernatural-6x19-mommy-dearest"
+  },
+  {
+    "key": "06x20",
+    "season": 6,
+    "number": 20,
+    "title": "O Homem que Queria Ser Rei",
+    "original_title": "The Man Who Would Be King",
+    "summary": "Castiel explica a guerra no Céu, enquanto Bobby suspeita dos segredos que ele esconde.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1114/supernatural-6x20-the-man-who-would-be-king"
+  },
+  {
+    "key": "06x21",
+    "season": 6,
+    "number": 21,
+    "title": "Deixa Sangrar",
+    "original_title": "Let It Bleed",
+    "summary": "O sequestro de Lisa e Ben obriga Dean a recorrer a uma aliança perigosa.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1115/supernatural-6x21-let-it-bleed"
+  },
+  {
+    "key": "06x22",
+    "season": 6,
+    "number": 22,
+    "title": "O Homem Que Sabia Demais",
+    "original_title": "The Man Who Knew Too Much",
+    "summary": "Sam enfrenta lembranças do Inferno enquanto a disputa pelo Céu chega ao confronto decisivo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1116/supernatural-6x22-the-man-who-knew-too-much"
+  },
+  {
+    "key": "07x01",
+    "season": 7,
+    "number": 1,
+    "title": "Conheçam o Novo Chefe",
+    "original_title": "Meet the New Boss",
+    "summary": "Castiel acumula poder e ameaça o mundo; os irmãos procuram uma forma de contê-lo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1117/supernatural-7x01-meet-the-new-boss"
+  },
+  {
+    "key": "07x02",
+    "season": 7,
+    "number": 2,
+    "title": "Olá, Mundo Cruel",
+    "original_title": "Hello, Cruel World",
+    "summary": "Uma nova ameaça surge, e Sam luta para distinguir as alucinações do que é real.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1118/supernatural-7x02-hello-cruel-world"
+  },
+  {
+    "key": "07x03",
+    "season": 7,
+    "number": 3,
+    "title": "Uma Garota Comum",
+    "original_title": "The Girl Next Door",
+    "summary": "Um caso atual faz Sam reencontrar uma criatura que conheceu quando era criança.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1119/supernatural-7x03-the-girl-next-door"
+  },
+  {
+    "key": "07x04",
+    "season": 7,
+    "number": 4,
+    "title": "Defendendo a sua Vida",
+    "original_title": "Defending Your Life",
+    "summary": "O deus Osíris julga pessoas por erros do passado e escolhe Dean como réu.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1120/supernatural-7x04-defending-your-life"
+  },
+  {
+    "key": "07x05",
+    "season": 7,
+    "number": 5,
+    "title": "Cale a Boca, Dr. Phil",
+    "original_title": "Shut Up, Dr. Phil",
+    "summary": "Uma briga de casal entre bruxos transforma os moradores de uma cidade em vítimas.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1121/supernatural-7x05-shut-up-dr-phil"
+  },
+  {
+    "key": "07x06",
+    "season": 7,
+    "number": 6,
+    "title": "Barra Ficção",
+    "original_title": "Slash Fiction",
+    "summary": "Criaturas assumem a aparência dos Winchester e cometem crimes, colocando os irmãos na lista de procurados.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1122/supernatural-7x06-slash-fiction"
+  },
+  {
+    "key": "07x07",
+    "season": 7,
+    "number": 7,
+    "title": "Os Mentalistas",
+    "original_title": "The Mentalists",
+    "summary": "Médiuns são assassinados numa cidade famosa por sessões espíritas, e os irmãos buscam o fantasma.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1123/supernatural-7x07-the-mentalists"
+  },
+  {
+    "key": "07x08",
+    "season": 7,
+    "number": 8,
+    "title": "Está na Hora do Casamento",
+    "original_title": "Season 7, Time for a Wedding!",
+    "summary": "Um casamento inesperado envolve Sam, enquanto Dean investiga o que está por trás da situação.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1124/supernatural-7x08-season-7-time-for-a-wedding"
+  },
+  {
+    "key": "07x09",
+    "season": 7,
+    "number": 9,
+    "title": "Como Fazer Amigos e Influenciar Monstros",
+    "original_title": "How to Win Friends and Influence Monsters",
+    "summary": "Uma suposta criatura da floresta ataca visitantes, e uma rede de lanchonetes guarda outra pista.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1125/supernatural-7x09-how-to-win-friends-and-influence-monsters"
+  },
+  {
+    "key": "07x10",
+    "season": 7,
+    "number": 10,
+    "title": "As Portas da Morte",
+    "original_title": "Death's Door",
+    "summary": "Bobby revive momentos marcantes da própria vida enquanto luta para ajudar os irmãos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1126/supernatural-7x10-deaths-door"
+  },
+  {
+    "key": "07x11",
+    "season": 7,
+    "number": 11,
+    "title": "Bancando as Babás",
+    "original_title": "Adventures in Babysitting",
+    "summary": "Sam procura o pai desaparecido de uma jovem caçadora num posto de estrada perigoso.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1127/supernatural-7x11-adventures-in-babysitting"
+  },
+  {
+    "key": "07x12",
+    "season": 7,
+    "number": 12,
+    "title": "O Tempo Além do Tempo",
+    "original_title": "Time After Time",
+    "summary": "Uma perseguição ao deus do tempo envia Dean a 1944, onde ele encontra Eliot Ness.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1128/supernatural-7x12-time-after-time"
+  },
+  {
+    "key": "07x13",
+    "season": 7,
+    "number": 13,
+    "title": "As Fatiadoras",
+    "original_title": "The Slice Girls",
+    "summary": "Mortes com sinais ritualísticos conduzem os irmãos a uma comunidade de amazonas.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1129/supernatural-7x13-the-slice-girls"
+  },
+  {
+    "key": "07x14",
+    "season": 7,
+    "number": 14,
+    "title": "Zoológico Mágico de Plucky Pennywhistle",
+    "original_title": "Plucky Pennywhistle's Magical Menagerie",
+    "summary": "Desenhos de crianças num restaurante fazem seus maiores medos ganharem vida.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1130/supernatural-7x14-plucky-pennywhistles-magical-menagerie"
+  },
+  {
+    "key": "07x15",
+    "season": 7,
+    "number": 15,
+    "title": "O Repossessor",
+    "original_title": "Repo Man",
+    "summary": "Um crime semelhante a uma antiga possessão leva os irmãos de volta ao homem que ajudaram anos antes.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1131/supernatural-7x15-repo-man"
+  },
+  {
+    "key": "07x16",
+    "season": 7,
+    "number": 16,
+    "title": "Fora com o Velho",
+    "original_title": "Out with the Old",
+    "summary": "Objetos amaldiçoados provocam mortes estranhas, e os irmãos rastreiam a origem da coleção.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1132/supernatural-7x16-out-with-the-old"
+  },
+  {
+    "key": "07x17",
+    "season": 7,
+    "number": 17,
+    "title": "A Identidade Renascida",
+    "original_title": "The Born-Again Identity",
+    "summary": "As alucinações de Sam o levam a um hospital psiquiátrico, e Dean procura um curandeiro.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1133/supernatural-7x17-the-born-again-identity"
+  },
+  {
+    "key": "07x18",
+    "season": 7,
+    "number": 18,
+    "title": "É Festa, Garth",
+    "original_title": "Party On, Garth",
+    "summary": "Garth pede ajuda para caçar um espírito japonês que só pode ser visto por quem está bêbado.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1134/supernatural-7x18-party-on-garth"
+  },
+  {
+    "key": "07x19",
+    "season": 7,
+    "number": 19,
+    "title": "De Grande Importância",
+    "original_title": "Of Grave Importance",
+    "summary": "Uma caçadora some numa casa assombrada, e os irmãos encontram um fantasma especialmente forte.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1135/supernatural-7x19-of-grave-importance"
+  },
+  {
+    "key": "07x20",
+    "season": 7,
+    "number": 20,
+    "title": "A Garota Tatuada com Masmorras e Dragões",
+    "original_title": "The Girl with the Dungeons and Dragons Tattoo",
+    "summary": "Charlie descobre o plano de um Leviatã e ajuda os irmãos numa infiltração arriscada.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1136/supernatural-7x20-the-girl-with-the-dungeons-and-dragons-tattoo"
+  },
+  {
+    "key": "07x21",
+    "season": 7,
+    "number": 21,
+    "title": "Leitura é Fundamental",
+    "original_title": "Reading is Fundamental",
+    "summary": "Um adolescente vira profeta e pode trazer a chave para enfrentar os Leviatãs.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1137/supernatural-7x21-reading-is-fundamental"
+  },
+  {
+    "key": "07x22",
+    "season": 7,
+    "number": 22,
+    "title": "Vai Haver Sangue",
+    "original_title": "There Will Be Blood",
+    "summary": "A busca pelos componentes para derrotar o líder Leviatã leva a acordos com velhos inimigos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1138/supernatural-7x22-there-will-be-blood"
+  },
+  {
+    "key": "07x23",
+    "season": 7,
+    "number": 23,
+    "title": "A Sobrevivência do Mais Apto",
+    "original_title": "Survival of the Fittest",
+    "summary": "Os irmãos e aliados colocam em ação um plano para deter o líder dos Leviatãs.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1139/supernatural-7x23-survival-of-the-fittest"
+  },
+  {
+    "key": "08x01",
+    "season": 8,
+    "number": 1,
+    "title": "Nós Temos que Falar Sobre Kevin",
+    "original_title": "We Need to Talk About Kevin",
+    "summary": "Dean retorna do Purgatório, reencontra Sam e parte em busca de Kevin antes de Crowley.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1140/supernatural-8x01-we-need-to-talk-about-kevin"
+  },
+  {
+    "key": "08x02",
+    "season": 8,
+    "number": 2,
+    "title": "E Aí, Mamãe Tigre!",
+    "original_title": "What's Up, Tiger Mommy?",
+    "summary": "Para proteger Kevin e encontrar a tábua, os irmãos resgatam a mãe dele de uma emboscada.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1141/supernatural-8x02-whats-up-tiger-mommy"
+  },
+  {
+    "key": "08x03",
+    "season": 8,
+    "number": 3,
+    "title": "Dor no Coração",
+    "original_title": "Heartache",
+    "summary": "Pessoas que receberam órgãos do mesmo doador são assassinadas em circunstâncias ritualísticas.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1142/supernatural-8x03-heartache"
+  },
+  {
+    "key": "08x04",
+    "season": 8,
+    "number": 4,
+    "title": "Mordidos",
+    "original_title": "Bitten",
+    "summary": "Um vídeo deixado por estudantes revela, de outro ponto de vista, uma caça a lobisomens.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1143/supernatural-8x04-bitten"
+  },
+  {
+    "key": "08x05",
+    "season": 8,
+    "number": 5,
+    "title": "Irmão de Sangue",
+    "original_title": "Blood Brother",
+    "summary": "Dean ajuda o vampiro Benny a enfrentar seu antigo criador, enquanto Sam questiona a aliança.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1144/supernatural-8x05-blood-brother"
+  },
+  {
+    "key": "08x06",
+    "season": 8,
+    "number": 6,
+    "title": "Conforto Sulista",
+    "original_title": "Southern Comfort",
+    "summary": "Um fantasma vingativo provoca mortes numa cidade onde Garth também investiga.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1145/supernatural-8x06-southern-comfort"
+  },
+  {
+    "key": "08x07",
+    "season": 8,
+    "number": 7,
+    "title": "Um Pedacinho de Kevin",
+    "original_title": "A Little Slice of Kevin",
+    "summary": "Castiel reaparece sem explicar a fuga do Purgatório, e Kevin se torna alvo de Crowley.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1146/supernatural-8x07-a-little-slice-of-kevin"
+  },
+  {
+    "key": "08x08",
+    "season": 8,
+    "number": 8,
+    "title": "Caçadores Heróicos",
+    "original_title": "Hunteri Heroici",
+    "summary": "Castiel tenta atuar como caçador num caso em que as mortes parecem saídas de desenhos animados.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1147/supernatural-8x08-hunteri-heroici"
+  },
+  {
+    "key": "08x09",
+    "season": 8,
+    "number": 9,
+    "title": "As Presas do Cidadão",
+    "original_title": "Citizen Fang",
+    "summary": "Uma morte atribuída a vampiros levanta dúvidas sobre Benny e divide os irmãos.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1148/supernatural-8x09-citizen-fang"
+  },
+  {
+    "key": "08x10",
+    "season": 8,
+    "number": 10,
+    "title": "Roto e Esfarrapado",
+    "original_title": "Torn and Frayed",
+    "summary": "Castiel tenta resgatar um anjo capturado por Crowley, enquanto Sam decide sobre sua vida pessoal.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1149/supernatural-8x10-torn-and-frayed"
+  },
+  {
+    "key": "08x11",
+    "season": 8,
+    "number": 11,
+    "title": "RPG e a Garota Real",
+    "original_title": "LARP and the Real Girl",
+    "summary": "Num jogo medieval ao vivo, Sam e Dean reencontram Charlie e investigam uma fada controlada por alguém.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1150/supernatural-8x11-larp-and-the-real-girl"
+  },
+  {
+    "key": "08x12",
+    "season": 8,
+    "number": 12,
+    "title": "Enquanto o Tempo Passa",
+    "original_title": "As Time Goes By",
+    "summary": "Um homem vindo do passado revela a linhagem Winchester e a perseguição a uma demônia poderosa.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1151/supernatural-8x12-as-time-goes-by"
+  },
+  {
+    "key": "08x13",
+    "season": 8,
+    "number": 13,
+    "title": "Todo Mundo Odeia Hitler",
+    "original_title": "Everybody Hates Hitler",
+    "summary": "Um rabino morto, necromantes nazistas e um golem entram na mesma investigação.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1152/supernatural-8x13-everybody-hates-hitler"
+  },
+  {
+    "key": "08x14",
+    "season": 8,
+    "number": 14,
+    "title": "Tentativa e Erro",
+    "original_title": "Trial and Error",
+    "summary": "Kevin traduz a tábua e inicia os testes necessários para fechar os portões do Inferno.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1153/supernatural-8x14-trial-and-error"
+  },
+  {
+    "key": "08x15",
+    "season": 8,
+    "number": 15,
+    "title": "O Melhor Amigo do Homem com Benefícios",
+    "original_title": "Man's Best Friend with Benefits",
+    "summary": "Um policial bruxo sonha com homicídios que depois se tornam reais, e os irmãos buscam a causa.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1154/supernatural-8x15-mans-best-friend-with-benefits"
+  },
+  {
+    "key": "08x16",
+    "season": 8,
+    "number": 16,
+    "title": "Lembrem-se dos Titãs",
+    "original_title": "Remember the Titans",
+    "summary": "Um homem amnésico revive a cada dia, e a pista leva à lenda de Prometeu.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1155/supernatural-8x16-remember-the-titans"
+  },
+  {
+    "key": "08x17",
+    "season": 8,
+    "number": 17,
+    "title": "Adeus, Estranho",
+    "original_title": "Goodbye Stranger",
+    "summary": "Demônios procuram uma cripta valiosa, enquanto Castiel esconde dos irmãos o que realmente buscam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1156/supernatural-8x17-goodbye-stranger"
+  },
+  {
+    "key": "08x18",
+    "season": 8,
+    "number": 18,
+    "title": "Nerds e Monstros",
+    "original_title": "Freaks and Geeks",
+    "summary": "Caçadores adolescentes perseguem vampiros; Sam e Dean investigam quem os está orientando.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1157/supernatural-8x18-freaks-and-geeks"
+  },
+  {
+    "key": "08x19",
+    "season": 8,
+    "number": 19,
+    "title": "Motorista de Taxi",
+    "original_title": "Taxi Driver",
+    "summary": "Sam precisa de um ceifador e da ajuda de Benny para cumprir o segundo teste.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1158/supernatural-8x19-taxi-driver"
+  },
+  {
+    "key": "08x20",
+    "season": 8,
+    "number": 20,
+    "title": "A Febre do Pac-Man",
+    "original_title": "Pac-Man Fever",
+    "summary": "Charlie acompanha Dean num caso de caça, mas um segredo dela torna tudo mais arriscado.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1159/supernatural-8x20-pac-man-fever"
+  },
+  {
+    "key": "08x21",
+    "season": 8,
+    "number": 21,
+    "title": "O Grande Escapista",
+    "original_title": "The Great Escapist",
+    "summary": "Uma pista para o terceiro teste envia os irmãos atrás de alguém que pode decifrar a tábua.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1160/supernatural-8x21-the-great-escapist"
+  },
+  {
+    "key": "08x22",
+    "season": 8,
+    "number": 22,
+    "title": "Show de Clipes",
+    "original_title": "Clip Show",
+    "summary": "Um registro dos Homens de Letras pode resolver o último teste, enquanto Crowley ataca o passado dos irmãos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1161/supernatural-8x22-clip-show"
+  },
+  {
+    "key": "08x23",
+    "season": 8,
+    "number": 23,
+    "title": "Sacrifício",
+    "original_title": "Sacrifice",
+    "summary": "Sam e Dean fazem sua tentativa final contra Crowley, enquanto Metatron move peças no Céu.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1162/supernatural-8x23-sacrifice"
+  },
+  {
+    "key": "09x01",
+    "season": 9,
+    "number": 1,
+    "title": "Eu Acho Que Vou Gostar Daqui",
+    "original_title": "I Think I'm Gonna Like It Here",
+    "summary": "Com Sam à beira da morte, Dean pede ajuda aos anjos e aceita um acordo perigoso.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1163/supernatural-9x01-i-think-im-gonna-like-it-here"
+  },
+  {
+    "key": "09x02",
+    "season": 9,
+    "number": 2,
+    "title": "O Diabo Que Se Dane",
+    "original_title": "Devil May Care",
+    "summary": "Crowley é mantido prisioneiro enquanto Abaddon tenta tomar o Inferno.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1164/supernatural-9x02-devil-may-care"
+  },
+  {
+    "key": "09x03",
+    "season": 9,
+    "number": 3,
+    "title": "Eu Não Sou  Anjo",
+    "original_title": "I'm No Angel",
+    "summary": "Anjos caçam Castiel, agora vulnerável, e os irmãos tentam encontrá-lo antes deles.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1165/supernatural-9x03-im-no-angel"
+  },
+  {
+    "key": "09x04",
+    "season": 9,
+    "number": 4,
+    "title": "Festa do Pijama",
+    "original_title": "Slumber Party",
+    "summary": "Um objeto oculto no bunker libera uma ameaça ligada ao mundo de Oz, com Charlie na investigação.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1166/supernatural-9x04-slumber-party"
+  },
+  {
+    "key": "09x05",
+    "season": 9,
+    "number": 5,
+    "title": "Dean e Um Dia de Cão",
+    "original_title": "Dog Dean Afternoon",
+    "summary": "Para entender uma série de mortes, Dean usa um feitiço que lhe permite conversar com um cão.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1167/supernatural-9x05-dog-dean-afternoon"
+  },
+  {
+    "key": "09x06",
+    "season": 9,
+    "number": 6,
+    "title": "O Céu Não Pode Esperar",
+    "original_title": "Heaven Can't Wait",
+    "summary": "Castiel investiga desaparecimentos perto do novo emprego e chama Dean para ajudar.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1168/supernatural-9x06-heaven-cant-wait"
+  },
+  {
+    "key": "09x07",
+    "season": 9,
+    "number": 7,
+    "title": "Delinquentes",
+    "original_title": "Bad Boys",
+    "summary": "Uma assombração leva Dean de volta à instituição juvenil onde viveu por um tempo.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1169/supernatural-9x07-bad-boys"
+  },
+  {
+    "key": "09x08",
+    "season": 9,
+    "number": 8,
+    "title": "Entre a Cruz e a Espada",
+    "original_title": "Rock and a Hard Place",
+    "summary": "Mortes num grupo religioso e um desaparecimento levam Sam, Dean e Jody a uma caçada.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1170/supernatural-9x08-rock-and-a-hard-place"
+  },
+  {
+    "key": "09x09",
+    "season": 9,
+    "number": 9,
+    "title": "Santo Terror",
+    "original_title": "Holy Terror",
+    "summary": "Uma chacina de anjos desperta a desconfiança de Dean sobre quem está dentro de Sam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1171/supernatural-9x09-holy-terror"
+  },
+  {
+    "key": "09x10",
+    "season": 9,
+    "number": 10,
+    "title": "Viagem",
+    "original_title": "Road Trip",
+    "summary": "Dean, Castiel e Crowley tentam libertar Sam de uma possessão angelical.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1172/supernatural-9x10-road-trip"
+  },
+  {
+    "key": "09x11",
+    "season": 9,
+    "number": 11,
+    "title": "Primogênito",
+    "original_title": "First Born",
+    "summary": "Dean e Crowley procuram a Primeira Lâmina e encontram Caim no caminho.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1173/supernatural-9x11-first-born"
+  },
+  {
+    "key": "09x12",
+    "season": 9,
+    "number": 12,
+    "title": "Dentes Afiados",
+    "original_title": "Sharp Teeth",
+    "summary": "O sumiço de Garth após uma internação revela uma nova família e uma caça inesperada.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1174/supernatural-9x12-sharp-teeth"
+  },
+  {
+    "key": "09x13",
+    "season": 9,
+    "number": 13,
+    "title": "Dieta Radical",
+    "original_title": "The Purge",
+    "summary": "Mortes misteriosas com grande perda de peso levam os irmãos a se infiltrar num spa.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1175/supernatural-9x13-the-purge"
+  },
+  {
+    "key": "09x14",
+    "season": 9,
+    "number": 14,
+    "title": "Cativos",
+    "original_title": "Captives",
+    "summary": "Uma assombração dentro do bunker conduz a um segredo guardado por demônios; Castiel enfrenta outra ameaça.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1176/supernatural-9x14-captives"
+  },
+  {
+    "key": "09x15",
+    "season": 9,
+    "number": 15,
+    "title": "Homem Sombra",
+    "original_title": "#thinman",
+    "summary": "Uma selfie parece mostrar uma figura sobrenatural antes de um assassinato, atraindo os irmãos para o caso.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1177/supernatural-9x15-thinman"
+  },
+  {
+    "key": "09x16",
+    "season": 9,
+    "number": 16,
+    "title": "Caçadores de Espada",
+    "original_title": "Blade Runners",
+    "summary": "A busca pela Primeira Lâmina exige localizar Crowley antes de Abaddon.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1178/supernatural-9x16-blade-runners"
+  },
+  {
+    "key": "09x17",
+    "season": 9,
+    "number": 17,
+    "title": "A Pequena Ajudante Da Mamãe",
+    "original_title": "Mother's Little Helper",
+    "summary": "Sam investiga pessoas comuns que se tornam assassinas, enquanto Dean lida com a Marca de Caim.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1179/supernatural-9x17-mothers-little-helper"
+  },
+  {
+    "key": "09x18",
+    "season": 9,
+    "number": 18,
+    "title": "Meta Ficção",
+    "original_title": "Meta Fiction",
+    "summary": "Metatron tenta manipular Castiel, e os irmãos capturam Gadreel.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1180/supernatural-9x18-meta-fiction"
+  },
+  {
+    "key": "09x19",
+    "season": 9,
+    "number": 19,
+    "title": "Alex Annie Alexis Ann",
+    "original_title": "Alex Annie Alexis Ann",
+    "summary": "Jody tenta proteger uma jovem usada como isca por uma família de vampiros.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1181/supernatural-9x19-alex-annie-alexis-ann"
+  },
+  {
+    "key": "09x20",
+    "season": 9,
+    "number": 20,
+    "title": "Linhagem",
+    "original_title": "Bloodlines",
+    "summary": "Uma investigação em Chicago revela famílias de monstros que controlam o crime da cidade.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1182/supernatural-9x20-bloodlines"
+  },
+  {
+    "key": "09x21",
+    "season": 9,
+    "number": 21,
+    "title": "O Rei dos Condenados",
+    "original_title": "King of the Damned",
+    "summary": "Abaddon pressiona Crowley, e Dean se aproxima do confronto com a Primeira Lâmina.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1183/supernatural-9x21-king-of-the-damned"
+  },
+  {
+    "key": "09x22",
+    "season": 9,
+    "number": 22,
+    "title": "Escada para o Céu",
+    "original_title": "Stairway to Heaven",
+    "summary": "Um ataque contra anjos expõe disputas no grupo de Castiel e aumenta a tensão sobre Dean.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1184/supernatural-9x22-stairway-to-heaven"
+  },
+  {
+    "key": "09x23",
+    "season": 9,
+    "number": 23,
+    "title": "Você Acredita em Milagres",
+    "original_title": "Do You Believe in Miracles?",
+    "summary": "Os irmãos e Castiel enfrentam Metatron enquanto a Primeira Lâmina cobra seu preço.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1185/supernatural-9x23-do-you-believe-in-miracles"
+  },
+  {
+    "key": "10x01",
+    "season": 10,
+    "number": 1,
+    "title": "Sombrio",
+    "original_title": "Black",
+    "summary": "Dean vive como demônio ao lado de Crowley, e Sam procura uma forma de encontrá-lo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1186/supernatural-10x01-black"
+  },
+  {
+    "key": "10x02",
+    "season": 10,
+    "number": 2,
+    "title": "Reichenbach",
+    "original_title": "Reichenbach",
+    "summary": "O comportamento de Dean piora sob a Marca, enquanto Sam é capturado por um homem em busca de vingança.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1187/supernatural-10x02-reichenbach"
+  },
+  {
+    "key": "10x03",
+    "season": 10,
+    "number": 3,
+    "title": "Alma Sobrevivente",
+    "original_title": "Soul Survivor",
+    "summary": "Sam tenta salvar Dean, e Crowley percebe que a situação ameaça seus planos no Inferno.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/12549/supernatural-10x03-soul-survivor"
+  },
+  {
+    "key": "10x04",
+    "season": 10,
+    "number": 4,
+    "title": "Lua de Papel",
+    "original_title": "Paper Moon",
+    "summary": "Ataques de lobisomem apontam para Kate, uma criatura que os irmãos decidiram poupar.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/13366/supernatural-10x04-paper-moon"
+  },
+  {
+    "key": "10x05",
+    "season": 10,
+    "number": 5,
+    "title": "Ficção de Fã",
+    "original_title": "Fan Fiction",
+    "summary": "Um desaparecimento leva Sam e Dean a um musical escolar baseado nas próprias aventuras.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1188/supernatural-10x05-fan-fiction"
+  },
+  {
+    "key": "10x06",
+    "season": 10,
+    "number": 6,
+    "title": "Pergunte ao Mordomo",
+    "original_title": "Ask Jeeves",
+    "summary": "Um testamento leva os irmãos a uma mansão onde uma reunião familiar termina em mortes.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/40378/supernatural-10x06-ask-jeeves"
+  },
+  {
+    "key": "10x07",
+    "season": 10,
+    "number": 7,
+    "title": "Garotas e Mais Garotas",
+    "original_title": "Girls, Girls, Girls",
+    "summary": "Os irmãos investigam os seguidores recrutados por Rowena para praticar bruxaria.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/45237/supernatural-10x07-girls-girls-girls"
+  },
+  {
+    "key": "10x08",
+    "season": 10,
+    "number": 8,
+    "title": "Emergência em Hibbing",
+    "original_title": "Hibbing 911",
+    "summary": "Jody e Donna procuram a origem de mortes brutais durante um encontro de delegados.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/45823/supernatural-10x08-hibbing-911"
+  },
+  {
+    "key": "10x09",
+    "season": 10,
+    "number": 9,
+    "title": "As Coisas Que Deixamos Para Trás",
+    "original_title": "The Things We Left Behind",
+    "summary": "Castiel busca a filha de Jimmy, desaparecida após fugir de um abrigo, com a ajuda dos irmãos.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/50200/supernatural-10x09-the-things-we-left-behind"
+  },
+  {
+    "key": "10x10",
+    "season": 10,
+    "number": 10,
+    "title": "Jogo de Caçador",
+    "original_title": "The Hunter Games",
+    "summary": "A busca por uma cura para a Marca de Caim se cruza aos planos de Rowena e Crowley.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/58256/supernatural-10x10-the-hunter-games"
+  },
+  {
+    "key": "10x11",
+    "season": 10,
+    "number": 11,
+    "title": "Não Há Lugar Como o Lar",
+    "original_title": "There's No Place Like Home",
+    "summary": "Charlie volta de Oz dividida por um feitiço, e os irmãos tentam lidar com sua outra metade.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/103726/supernatural-10x11-theres-no-place-like-home"
+  },
+  {
+    "key": "10x12",
+    "season": 10,
+    "number": 12,
+    "title": "Sobre o Rapaz",
+    "original_title": "About a Boy",
+    "summary": "Pessoas somem deixando as roupas para trás, e uma bruxa de contos de fadas transforma suas vítimas.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/109657/supernatural-10x12-about-a-boy"
+  },
+  {
+    "key": "10x13",
+    "season": 10,
+    "number": 13,
+    "title": "Pare e Pegue Fogo",
+    "original_title": "Halt & Catch Fire",
+    "summary": "Um fantasma mata jovens por meio de aparelhos eletrônicos, dificultando a investigação.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/109658/supernatural-10x13-halt-catch-fire"
+  },
+  {
+    "key": "10x14",
+    "season": 10,
+    "number": 14,
+    "title": "A Canção do Carrasco",
+    "original_title": "The Executioner's Song",
+    "summary": "Caim retorna e obriga Dean a enfrentar o poder da Marca e da Primeira Lâmina.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/117529/supernatural-10x14-the-executioners-song"
+  },
+  {
+    "key": "10x15",
+    "season": 10,
+    "number": 15,
+    "title": "As Coisas que Eles Levaram",
+    "original_title": "The Things They Carried",
+    "summary": "Homens se tornam assassinos depois de ser infectados por uma criatura, e Cole entra na caça.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/117530/supernatural-10x15-the-things-they-carried"
+  },
+  {
+    "key": "10x16",
+    "season": 10,
+    "number": 16,
+    "title": "Pinte de Negro",
+    "original_title": "Paint It Black",
+    "summary": "Suicídios numa igreja levam os irmãos a investigar segredos revelados em confissão.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/142174/supernatural-10x16-paint-it-black"
+  },
+  {
+    "key": "10x17",
+    "season": 10,
+    "number": 17,
+    "title": "Infiltrado",
+    "original_title": "Inside Man",
+    "summary": "Sam e Castiel seguem uma pista para remover a Marca, enquanto Dean se encontra com Rowena.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/142175/supernatural-10x17-inside-man"
+  },
+  {
+    "key": "10x18",
+    "season": 10,
+    "number": 18,
+    "title": "O Livro dos Condenados",
+    "original_title": "Book of the Damned",
+    "summary": "Charlie acha um livro capaz de remover a Marca, mas uma família perigosa também o procura.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/144511/supernatural-10x18-book-of-the-damned"
+  },
+  {
+    "key": "10x19",
+    "season": 10,
+    "number": 19,
+    "title": "O Projeto Werther",
+    "original_title": "The Werther Project",
+    "summary": "Sam procura uma caixa encantada que pode salvar Dean, apesar das defesas mortais que a protegem.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/153064/supernatural-10x19-the-werther-project"
+  },
+  {
+    "key": "10x20",
+    "season": 10,
+    "number": 20,
+    "title": "Coração Angelical",
+    "original_title": "Angel Heart",
+    "summary": "Claire busca a mãe desaparecida com a ajuda de Castiel e dos irmãos.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/144513/supernatural-10x20-angel-heart"
+  },
+  {
+    "key": "10x21",
+    "season": 10,
+    "number": 21,
+    "title": "Dinastia das Trevas",
+    "original_title": "Dark Dynasty",
+    "summary": "A família Styne se aproxima do livro procurado por Sam, e Dean entra em rota de colisão com ela.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/144514/supernatural-10x21-dark-dynasty"
+  },
+  {
+    "key": "10x22",
+    "season": 10,
+    "number": 22,
+    "title": "O Prisioneiro",
+    "original_title": "The Prisoner",
+    "summary": "Dean decide resolver a ameaça Styne à sua maneira, enquanto Sam encara as consequências de seus atos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/144515/supernatural-10x22-the-prisoner"
+  },
+  {
+    "key": "10x23",
+    "season": 10,
+    "number": 23,
+    "title": "Guardião do Irmão",
+    "original_title": "Brother's Keeper",
+    "summary": "Uma decisão sobre a Marca de Caim desencadeia mudanças para Dean, Sam e os aliados.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/144516/supernatural-10x23-brothers-keeper"
+  },
+  {
+    "key": "11x01",
+    "season": 11,
+    "number": 1,
+    "title": "Fora da Escuridão, Dentro do Fogo",
+    "original_title": "Out of the Darkness, Into the Fire",
+    "summary": "A Escuridão é libertada, e os irmãos tentam entender a nova ameaça e sobreviver ao primeiro contato.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/182149/supernatural-11x01-out-of-the-darkness-into-the-fire"
+  },
+  {
+    "key": "11x02",
+    "season": 11,
+    "number": 2,
+    "title": "Forma e Vazia",
+    "original_title": "Form and Void",
+    "summary": "Sam luta contra uma infecção ligada à Escuridão enquanto Dean protege uma sobrevivente.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/212840/supernatural-11x02-form-and-void"
+  },
+  {
+    "key": "11x03",
+    "season": 11,
+    "number": 3,
+    "title": "A Semente do Mal",
+    "original_title": "The Bad Seed",
+    "summary": "Os irmãos procuram Rowena para ajudar Castiel, e Crowley descobre o perigo de criar Amara.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/212841/supernatural-11x03-the-bad-seed"
+  },
+  {
+    "key": "11x04",
+    "season": 11,
+    "number": 4,
+    "title": "Bebê",
+    "original_title": "Baby",
+    "summary": "Uma criatura que mistura vampiro e carniçal leva a uma caça mostrada pela perspectiva do Impala.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/212842/supernatural-11x04-baby"
+  },
+  {
+    "key": "11x05",
+    "season": 11,
+    "number": 5,
+    "title": "A Pequena Lizzie",
+    "original_title": "Thin Lizzie",
+    "summary": "Assassinatos na antiga casa de Lizzie Borden revelam uma influência ligada a Amara.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/379149/supernatural-11x05-thin-lizzie"
+  },
+  {
+    "key": "11x06",
+    "season": 11,
+    "number": 6,
+    "title": "Nosso Pequeno Mundo",
+    "original_title": "Our Little World",
+    "summary": "Os irmãos se aproximam do esconderijo de Amara, e Castiel procura Metatron.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/395219/supernatural-11x06-our-little-world"
+  },
+  {
+    "key": "11x07",
+    "season": 11,
+    "number": 7,
+    "title": "Pelúcia",
+    "original_title": "Plush",
+    "summary": "Máscaras de animais parecem levar pessoas comuns a cometer ataques violentos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/395220/supernatural-11x07-plush"
+  },
+  {
+    "key": "11x08",
+    "season": 11,
+    "number": 8,
+    "title": "É só Minha Imaginação",
+    "original_title": "Just My Imagination",
+    "summary": "O antigo amigo imaginário de Sam pede ajuda para descobrir quem está matando seus semelhantes.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/365398/supernatural-11x08-just-my-imagination"
+  },
+  {
+    "key": "11x09",
+    "season": 11,
+    "number": 9,
+    "title": "Irmão Onde Está Você",
+    "original_title": "O Brother Where Art Thou?",
+    "summary": "Sam procura Lúcifer no Inferno para enfrentar Amara, enquanto Dean tenta rastrear a Escuridão.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/461928/supernatural-11x09-o-brother-where-art-thou"
+  },
+  {
+    "key": "11x10",
+    "season": 11,
+    "number": 10,
+    "title": "O Diabo Está Nos Detalhes",
+    "original_title": "The Devil in the Details",
+    "summary": "Lúcifer tenta convencer Sam a ceder seu corpo, e os aliados buscam um plano para detê-lo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/467861/supernatural-11x10-the-devil-in-the-details"
+  },
+  {
+    "key": "11x11",
+    "season": 11,
+    "number": 11,
+    "title": "Em Meio à Névoa",
+    "original_title": "Into the Mystic",
+    "summary": "A morte inexplicável de um idoso conduz os irmãos a uma criatura que se anuncia por um grito.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/467862/supernatural-11x11-into-the-mystic"
+  },
+  {
+    "key": "11x12",
+    "season": 11,
+    "number": 12,
+    "title": "Não Se Esqueça de Mim",
+    "original_title": "Don't You Forget About Me",
+    "summary": "Jody e Claire pedem ajuda quando um cadáver comprova a existência de monstros na cidade.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/467863/supernatural-11x12-dont-you-forget-about-me"
+  },
+  {
+    "key": "11x13",
+    "season": 11,
+    "number": 13,
+    "title": "O Amor Machuca",
+    "original_title": "Love Hurts",
+    "summary": "Uma maldição passada por beijo causa mortes no Dia dos Namorados e coloca Dean na lista de vítimas.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/578913/supernatural-11x13-love-hurts"
+  },
+  {
+    "key": "11x14",
+    "season": 11,
+    "number": 14,
+    "title": "A Casca",
+    "original_title": "The Vessel",
+    "summary": "Dean volta a 1943 em busca de uma arma contra Amara, enquanto um segredo de Castiel ameaça a missão.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/590461/supernatural-11x14-the-vessel"
+  },
+  {
+    "key": "11x15",
+    "season": 11,
+    "number": 15,
+    "title": "Além da Lona",
+    "original_title": "Beyond the Mat",
+    "summary": "Os irmãos investigam mortes em uma turnê de luta livre que admiravam desde a infância.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/600744/supernatural-11x15-beyond-the-mat"
+  },
+  {
+    "key": "11x16",
+    "season": 11,
+    "number": 16,
+    "title": "Esconderijo",
+    "original_title": "Safe House",
+    "summary": "Um coma inexplicável retoma um caso que Bobby e Rufus investigaram anos atrás sem concluir.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/620130/supernatural-11x16-safe-house"
+  },
+  {
+    "key": "11x17",
+    "season": 11,
+    "number": 17,
+    "title": "Carne Vermelha",
+    "original_title": "Red Meat",
+    "summary": "Após uma caçada a lobisomens dar errado, Dean tenta salvar Sam e um casal numa fuga difícil.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/646904/supernatural-11x17-red-meat"
+  },
+  {
+    "key": "11x18",
+    "season": 11,
+    "number": 18,
+    "title": "Anjo do Inferno",
+    "original_title": "Hell's Angel",
+    "summary": "Os irmãos negociam uma arma capaz de atingir Amara enquanto tentam lidar com Lúcifer.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/650422/supernatural-11x18-hells-angel"
+  },
+  {
+    "key": "11x19",
+    "season": 11,
+    "number": 19,
+    "title": "Os Zunidos",
+    "original_title": "The Chitters",
+    "summary": "Desaparecimentos que se repetem a cada 27 anos levam os irmãos a outros dois caçadores.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/650423/supernatural-11x19-the-chitters"
+  },
+  {
+    "key": "11x20",
+    "season": 11,
+    "number": 20,
+    "title": "Não Me Chame de Shurley",
+    "original_title": "Don't Call Me Shurley",
+    "summary": "Uma morte pode estar ligada a Amara, enquanto Metatron recebe uma tarefa surpreendente.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/647364/supernatural-11x20-dont-call-me-shurley"
+  },
+  {
+    "key": "11x21",
+    "season": 11,
+    "number": 21,
+    "title": "Tudo Em Família",
+    "original_title": "All in the Family",
+    "summary": "Sam e Dean tentam entender o plano de Chuck, resgatar Lúcifer e preparar o confronto com Amara.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/647365/supernatural-11x21-all-in-the-family"
+  },
+  {
+    "key": "11x22",
+    "season": 11,
+    "number": 22,
+    "title": "Nós, Poucos e Felizes",
+    "original_title": "We Happy Few",
+    "summary": "Para deter Amara, os irmãos buscam unir as forças do Céu, do Inferno e da magia.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/647366/supernatural-11x22-we-happy-few"
+  },
+  {
+    "key": "11x23",
+    "season": 11,
+    "number": 23,
+    "title": "Alfa e Ômega",
+    "original_title": "Alpha and Omega",
+    "summary": "O mundo se aproxima do fim, e os aliados apostam num plano que exige um grande sacrifício.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/647367/supernatural-11x23-alpha-and-omega"
+  },
+  {
+    "key": "12x01",
+    "season": 12,
+    "number": 1,
+    "title": "Fique Calmo e Vá em Frente",
+    "original_title": "Keep Calm and Carry On",
+    "summary": "Dean apresenta a Mary o mundo atual enquanto Sam sofre nas mãos dos Homens de Letras britânicos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/836197/supernatural-12x01-keep-calm-and-carry-on"
+  },
+  {
+    "key": "12x02",
+    "season": 12,
+    "number": 2,
+    "title": "Mamma Mia",
+    "original_title": "Mamma Mia",
+    "summary": "Dean, Mary e Castiel buscam Sam, e Crowley tenta capturar Lúcifer.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/945252/supernatural-12x02-mamma-mia"
+  },
+  {
+    "key": "12x03",
+    "season": 12,
+    "number": 3,
+    "title": "A Fundição",
+    "original_title": "The Foundry",
+    "summary": "Duas mortes associadas ao choro de um bebê levam os Winchester a uma casa assombrada.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/953506/supernatural-12x03-the-foundry"
+  },
+  {
+    "key": "12x04",
+    "season": 12,
+    "number": 4,
+    "title": "Pesadelo Americano",
+    "original_title": "American Nightmare",
+    "summary": "Um crime numa igreja aponta para uma família religiosa isolada e para uma origem inesperada.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/957650/supernatural-12x04-american-nightmare"
+  },
+  {
+    "key": "12x05",
+    "season": 12,
+    "number": 5,
+    "title": "Aquele Que Vocês Esperavam",
+    "original_title": "The One You've Been Waiting For",
+    "summary": "Os irmãos interrompem um plano de necromantes nazistas para ressuscitar Hitler.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/957651/supernatural-12x05-the-one-youve-been-waiting-for"
+  },
+  {
+    "key": "12x06",
+    "season": 12,
+    "number": 6,
+    "title": "Celebrando a Vida de Asa Fox",
+    "original_title": "Celebrating the Life of Asa Fox",
+    "summary": "No velório de um caçador, colegas ficam presos com um assassino entre eles.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/975298/supernatural-12x06-celebrating-the-life-of-asa-fox"
+  },
+  {
+    "key": "12x07",
+    "season": 12,
+    "number": 7,
+    "title": "O Rock Nunca Morre",
+    "original_title": "Rock Never Dies",
+    "summary": "Lúcifer assume a identidade de um cantor de rock e prepara uma turnê perigosa.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/986266/supernatural-12x07-rock-never-dies"
+  },
+  {
+    "key": "12x08",
+    "season": 12,
+    "number": 8,
+    "title": "LOTUS",
+    "original_title": "LOTUS",
+    "summary": "Lúcifer ocupa o corpo do presidente, e os irmãos procuram uma maneira de expulsá-lo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/992912/supernatural-12x08-lotus"
+  },
+  {
+    "key": "12x09",
+    "season": 12,
+    "number": 9,
+    "title": "Programado Para Matar",
+    "original_title": "First Blood",
+    "summary": "Detidos numa prisão secreta, Sam e Dean tentam escapar sem expor quem os ajuda.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/991398/supernatural-12x09-first-blood"
+  },
+  {
+    "key": "12x10",
+    "season": 12,
+    "number": 10,
+    "title": "As Mágoas de Lily Sunder",
+    "original_title": "Lily Sunder Has Some Regrets",
+    "summary": "Um assassino caça antigos companheiros de Castiel, e os irmãos investigam o motivo.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1040746/supernatural-12x10-lily-sunder-has-some-regrets"
+  },
+  {
+    "key": "12x11",
+    "season": 12,
+    "number": 11,
+    "title": "Uma Segunda Chance Para Dean",
+    "original_title": "Regarding Dean",
+    "summary": "Uma bruxa apaga a memória de Dean aos poucos, e Sam procura Rowena antes que seja tarde.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1046394/supernatural-12x11-regarding-dean"
+  },
+  {
+    "key": "12x12",
+    "season": 12,
+    "number": 12,
+    "title": "Preso no Meio (Com Você)",
+    "original_title": "Stuck in the Middle (With You)",
+    "summary": "Uma missão organizada por Mary coloca caçadores diante de um demônio muito mais forte que esperavam.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1042348/supernatural-12x12-stuck-in-the-middle-with-you"
+  },
+  {
+    "key": "12x13",
+    "season": 12,
+    "number": 13,
+    "title": "Briga de Família",
+    "original_title": "Family Feud",
+    "summary": "Três professores são mortos após a recuperação de um navio com uma história sobrenatural.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1042349/supernatural-12x13-family-feud"
+  },
+  {
+    "key": "12x14",
+    "season": 12,
+    "number": 14,
+    "title": "A Invasão",
+    "original_title": "The Raid",
+    "summary": "Mary tenta convencer Sam a cooperar com os Homens de Letras britânicos; Dean desconfia deles.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1042350/supernatural-12x14-the-raid"
+  },
+  {
+    "key": "12x15",
+    "season": 12,
+    "number": 15,
+    "title": "Entre o Céu e o Inferno",
+    "original_title": "Somewhere Between Heaven and Hell",
+    "summary": "A morte de campistas revela um cão do Inferno particularmente perigoso, enquanto outras alianças avançam.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1042351/supernatural-12x15-somewhere-between-heaven-and-hell"
+  },
+  {
+    "key": "12x16",
+    "season": 12,
+    "number": 16,
+    "title": "Mulheres Bebem de Graça",
+    "original_title": "Ladies Drink Free",
+    "summary": "Uma caçada a lobisomens com Mick expõe diferenças entre os métodos dos caçadores.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1095440/supernatural-12x16-ladies-drink-free"
+  },
+  {
+    "key": "12x17",
+    "season": 12,
+    "number": 17,
+    "title": "A Invasão Britânica",
+    "original_title": "The British Invasion",
+    "summary": "Os irmãos seguem pistas sobre Kelly e o filho de Lúcifer, enquanto Castiel desaparece.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1101281/supernatural-12x17-the-british-invasion"
+  },
+  {
+    "key": "12x18",
+    "season": 12,
+    "number": 18,
+    "title": "A Lembrança Permanece",
+    "original_title": "The Memory Remains",
+    "summary": "Uma criatura com cabeça de bode ataca numa cidade, mas os Homens de Letras têm interesse no bunker.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1107139/supernatural-12x18-the-memory-remains"
+  },
+  {
+    "key": "12x19",
+    "season": 12,
+    "number": 19,
+    "title": "O Futuro",
+    "original_title": "The Future",
+    "summary": "Castiel decide o que fazer com Kelly e o bebê, em desacordo com os Winchester.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1118284/supernatural-12x19-the-future"
+  },
+  {
+    "key": "12x20",
+    "season": 12,
+    "number": 20,
+    "title": "Gravetos & Barbante & Tasha Banes",
+    "original_title": "Twigs & Twine & Tasha Banes",
+    "summary": "Os irmãos ajudam dois jovens caçadores a procurar a mãe desaparecida numa hospedaria.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1118285/supernatural-12x20-twigs-twine-tasha-banes"
+  },
+  {
+    "key": "12x21",
+    "season": 12,
+    "number": 21,
+    "title": "Quem Vai Ficar com Mary?",
+    "original_title": "There's Something About Mary",
+    "summary": "A morte de Eileen revela uma campanha contra caçadores americanos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1118286/supernatural-12x21-theres-something-about-mary"
+  },
+  {
+    "key": "12x22",
+    "season": 12,
+    "number": 22,
+    "title": "Quem Nós Somos",
+    "original_title": "Who We Are",
+    "summary": "Sam e Dean fogem de uma armadilha no bunker e tentam impedir a operação britânica.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1098641/supernatural-12x22-who-we-are"
+  },
+  {
+    "key": "12x23",
+    "season": 12,
+    "number": 23,
+    "title": "Ao Longo da Torre de Vigia",
+    "original_title": "All Along the Watchtower",
+    "summary": "O nascimento do filho de Lúcifer se aproxima, e os irmãos procuram impedir outra catástrofe.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1098642/supernatural-12x23-all-along-the-watchtower"
+  },
+  {
+    "key": "13x01",
+    "season": 13,
+    "number": 1,
+    "title": "Achados e Perdidos",
+    "original_title": "Lost and Found",
+    "summary": "Sam e Dean tentam localizar Jack, o filho de Lúcifer, antes que outros decidam seu destino.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1207202/supernatural-13x01-lost-and-found"
+  },
+  {
+    "key": "13x02",
+    "season": 13,
+    "number": 2,
+    "title": "O Filho em Ascensão",
+    "original_title": "The Rising Son",
+    "summary": "Um príncipe do Inferno deseja usar os poderes de Jack para soltar criaturas perigosas.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1270498/supernatural-13x02-the-rising-son"
+  },
+  {
+    "key": "13x03",
+    "season": 13,
+    "number": 3,
+    "title": "Patience",
+    "original_title": "Patience",
+    "summary": "Dean e Jody protegem uma jovem vidente perseguida por um espectro, enquanto Sam acompanha Jack.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1270499/supernatural-13x03-patience"
+  },
+  {
+    "key": "13x04",
+    "season": 13,
+    "number": 4,
+    "title": "O Grande Vazio",
+    "original_title": "The Big Empty",
+    "summary": "Mortes ligadas a pessoas enlutadas levam os irmãos e Jack a uma conselheira suspeita.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1270500/supernatural-13x04-the-big-empty"
+  },
+  {
+    "key": "13x05",
+    "season": 13,
+    "number": 5,
+    "title": "Tanatologia Avançada",
+    "original_title": "Advanced Thanatology",
+    "summary": "Uma casa repleta de espíritos e o desaparecimento de um menino ocupam Sam e Dean.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1270502/supernatural-13x05-advanced-thanatology"
+  },
+  {
+    "key": "13x06",
+    "season": 13,
+    "number": 6,
+    "title": "Tombstone",
+    "original_title": "Tombstone",
+    "summary": "Os irmãos, Castiel e Jack investigam violações de túmulos em Tombstone.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1270503/supernatural-13x06-tombstone"
+  },
+  {
+    "key": "13x07",
+    "season": 13,
+    "number": 7,
+    "title": "A Guerra dos Mundos",
+    "original_title": "War of the Worlds",
+    "summary": "Enquanto Lúcifer escapa, os irmãos investigam assassinatos de bruxas ligados a uma figura conhecida.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1270505/supernatural-13x07-war-of-the-worlds"
+  },
+  {
+    "key": "13x08",
+    "season": 13,
+    "number": 8,
+    "title": "O Escorpião e o Sapo",
+    "original_title": "The Scorpion and the Frog",
+    "summary": "Sam e Dean aceitam roubar um baú para um demônio em troca de uma pista capaz de localizar Jack.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1270506/supernatural-13x08-the-scorpion-and-the-frog"
+  },
+  {
+    "key": "13x09",
+    "season": 13,
+    "number": 9,
+    "title": "O Lugar Ruim",
+    "original_title": "The Bad Place",
+    "summary": "A procura por Jack passa por uma viajante dos sonhos e pelo paradeiro de Mary.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1270507/supernatural-13x09-the-bad-place"
+  },
+  {
+    "key": "13x10",
+    "season": 13,
+    "number": 10,
+    "title": "Irmãs Rebeldes",
+    "original_title": "Wayward Sisters",
+    "summary": "Jody, Claire e outras caçadoras tentam resgatar Sam e Dean de uma dimensão perigosa.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1279989/supernatural-13x10-wayward-sisters"
+  },
+  {
+    "key": "13x11",
+    "season": 13,
+    "number": 11,
+    "title": "Colapso",
+    "original_title": "Breakdown",
+    "summary": "A sobrinha de Donna desaparece num posto de caminhoneiros ligado a um comércio para monstros.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1279991/supernatural-13x11-breakdown"
+  },
+  {
+    "key": "13x12",
+    "season": 13,
+    "number": 12,
+    "title": "Vários e Sortudos Vilões",
+    "original_title": "Various & Sundry Villains",
+    "summary": "Duas bruxas encantam pessoas para roubar um livro mágico guardado no bunker.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1279990/supernatural-13x12-various-sundry-villains"
+  },
+  {
+    "key": "13x13",
+    "season": 13,
+    "number": 13,
+    "title": "A Barganha do Diabo",
+    "original_title": "Devil's Bargain",
+    "summary": "Os irmãos perseguem Lúcifer com um novo aliado, enquanto o Céu prepara suas próprias alianças.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1333557/supernatural-13x13-devils-bargain"
+  },
+  {
+    "key": "13x14",
+    "season": 13,
+    "number": 14,
+    "title": "Boas Intenções",
+    "original_title": "Good Intentions",
+    "summary": "Dean e Castiel procuram componentes de um feitiço, e Mary tenta escapar de outra realidade.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1333558/supernatural-13x14-good-intentions"
+  },
+  {
+    "key": "13x15",
+    "season": 13,
+    "number": 15,
+    "title": "Um Homem Muito Santo",
+    "original_title": "A Most Holy Man",
+    "summary": "A busca por uma relíquia sagrada coloca os irmãos no meio de um crime envolvendo o mercado clandestino.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1351946/supernatural-13x15-a-most-holy-man"
+  },
+  {
+    "key": "13x16",
+    "season": 13,
+    "number": 16,
+    "title": "Scoobynatural",
+    "original_title": "Scoobynatural",
+    "summary": "Sam e Dean entram no desenho do Scooby-Doo e descobrem uma assombração de verdade.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1270508/supernatural-13x16-scoobynatural"
+  },
+  {
+    "key": "13x17",
+    "season": 13,
+    "number": 17,
+    "title": "A Coisa",
+    "original_title": "The Thing",
+    "summary": "A procura de um selo capaz de abrir um portal leva os irmãos a uma sede abandonada dos Homens de Letras.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1351947/supernatural-13x17-the-thing"
+  },
+  {
+    "key": "13x18",
+    "season": 13,
+    "number": 18,
+    "title": "Traga-os de Volta Vivos",
+    "original_title": "Bring 'em Back Alive",
+    "summary": "Dean procura Mary em outra realidade, enquanto Sam e Castiel tentam ajudar Gabriel.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1351948/supernatural-13x18-bring-em-back-alive"
+  },
+  {
+    "key": "13x19",
+    "season": 13,
+    "number": 19,
+    "title": "Funeralia",
+    "original_title": "Funeralia",
+    "summary": "Mortes cometidas por Rowena se cruzam com os planos da Morte e as tensões no Céu.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1392805/supernatural-13x19-funeralia"
+  },
+  {
+    "key": "13x20",
+    "season": 13,
+    "number": 20,
+    "title": "Negócios Inacabados",
+    "original_title": "Unfinished Business",
+    "summary": "Gabriel persegue antigos inimigos, e os irmãos se envolvem em sua caça por vingança.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1392806/supernatural-13x20-unfinished-business"
+  },
+  {
+    "key": "13x21",
+    "season": 13,
+    "number": 21,
+    "title": "Derrote o Diabo",
+    "original_title": "Beat the Devil",
+    "summary": "Para abrir o portal até Mary e Jack, o grupo recorre a uma fonte arriscada de poder.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1422912/supernatural-13x21-beat-the-devil"
+  },
+  {
+    "key": "13x22",
+    "season": 13,
+    "number": 22,
+    "title": "Êxodo",
+    "original_title": "Exodus",
+    "summary": "Num mundo devastado, os aliados tentam salvar combatentes e voltar para casa.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1422913/supernatural-13x22-exodus"
+  },
+  {
+    "key": "13x23",
+    "season": 13,
+    "number": 23,
+    "title": "Que Venham os Bons Tempos",
+    "original_title": "Let the Good Times Roll",
+    "summary": "Lúcifer se aproxima de Jack, e os Winchester enfrentam uma ameaça entre os refugiados.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1422914/supernatural-13x23-let-the-good-times-roll"
+  },
+  {
+    "key": "14x01",
+    "season": 14,
+    "number": 1,
+    "title": "Estranho em uma Terra Estranha",
+    "original_title": "Stranger in a Strange Land",
+    "summary": "Enquanto procuram Dean, Sam e os novos caçadores negociam com um demônio que ameaça Castiel.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1473821/supernatural-14x01-stranger-in-a-strange-land"
+  },
+  {
+    "key": "14x02",
+    "season": 14,
+    "number": 2,
+    "title": "Deuses e Monstros",
+    "original_title": "Gods and Monsters",
+    "summary": "A busca por Dean prossegue, e Jack e Nick confrontam acontecimentos do passado.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1491262/supernatural-14x02-gods-and-monsters"
+  },
+  {
+    "key": "14x03",
+    "season": 14,
+    "number": 3,
+    "title": "A cicatriz",
+    "original_title": "The Scar",
+    "summary": "Uma cicatriz pode levar à arma que feriu Michael; os irmãos e Jody seguem essa pista.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1523870/supernatural-14x03-the-scar"
+  },
+  {
+    "key": "14x04",
+    "season": 14,
+    "number": 4,
+    "title": "Ótima Condição",
+    "original_title": "Mint Condition",
+    "summary": "Uma figura de ação ganha vida e ataca um funcionário de loja de quadrinhos.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1523871/supernatural-14x04-mint-condition"
+  },
+  {
+    "key": "14x05",
+    "season": 14,
+    "number": 5,
+    "title": "A Lógica do Pesadelo",
+    "original_title": "Nightmare Logic",
+    "summary": "O desaparecimento de uma jovem caçadora leva o grupo a uma casa de aparições estranhas.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1523872/supernatural-14x05-nightmare-logic"
+  },
+  {
+    "key": "14x06",
+    "season": 14,
+    "number": 6,
+    "title": "Otimismo",
+    "original_title": "Optimism",
+    "summary": "Sam e Charlie investigam desaparecimentos, enquanto Jack e Dean resolvem outra caça.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1523873/supernatural-14x06-optimism"
+  },
+  {
+    "key": "14x07",
+    "season": 14,
+    "number": 7,
+    "title": "Natureza Inumana",
+    "original_title": "Unhuman Nature",
+    "summary": "A saúde de Jack piora, e os aliados procuram uma forma de salvá-lo.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1523874/supernatural-14x07-unhuman-nature"
+  },
+  {
+    "key": "14x08",
+    "season": 14,
+    "number": 8,
+    "title": "Bizâncio",
+    "original_title": "Byzantium",
+    "summary": "Após a morte de Jack, Sam, Dean e Castiel buscam uma maneira de trazê-lo de volta.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1523875/supernatural-14x08-byzantium"
+  },
+  {
+    "key": "14x09",
+    "season": 14,
+    "number": 9,
+    "title": "A Lança",
+    "original_title": "The Spear",
+    "summary": "Michael prepara um ataque a uma cidade, e os irmãos tentam impedir a liberação de seu exército.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1523876/supernatural-14x09-the-spear"
+  },
+  {
+    "key": "14x10",
+    "season": 14,
+    "number": 10,
+    "title": "Niilismo",
+    "original_title": "Nihilism",
+    "summary": "Os aliados procuram expulsar Michael de Dean antes que suas criaturas cheguem até eles.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1523877/supernatural-14x10-nihilism"
+  },
+  {
+    "key": "14x11",
+    "season": 14,
+    "number": 11,
+    "title": "Mercadoria Danificada",
+    "original_title": "Damaged Goods",
+    "summary": "Dean toma uma decisão sobre Michael e visita Mary, enquanto Nick continua sua busca.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1523878/supernatural-14x11-damaged-goods"
+  },
+  {
+    "key": "14x12",
+    "season": 14,
+    "number": 12,
+    "title": "Profeta e Perda",
+    "original_title": "Prophet and Loss",
+    "summary": "No caminho para uma decisão extrema, os irmãos investigam um profeta que assassina pessoas.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1544372/supernatural-14x12-prophet-and-loss"
+  },
+  {
+    "key": "14x13",
+    "season": 14,
+    "number": 13,
+    "title": "Lebanon",
+    "original_title": "Lebanon",
+    "summary": "Uma pérola capaz de atender desejos dá aos irmãos um reencontro familiar inesperado.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1577511/supernatural-14x13-lebanon"
+  },
+  {
+    "key": "14x14",
+    "season": 14,
+    "number": 14,
+    "title": "Oroboro",
+    "original_title": "Ouroboros",
+    "summary": "Uma caçada a uma criatura desconhecida abre caminho para Michael escapar de sua prisão.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1606173/supernatural-14x14-ouroboros"
+  },
+  {
+    "key": "14x15",
+    "season": 14,
+    "number": 15,
+    "title": "Paz de Espírito",
+    "original_title": "Peace of Mind",
+    "summary": "Sam e Castiel investigam uma cidade estranha após a morte inexplicável de um adolescente.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1613304/supernatural-14x15-peace-of-mind"
+  },
+  {
+    "key": "14x16",
+    "season": 14,
+    "number": 16,
+    "title": "Não Entre na Mata",
+    "original_title": "Don't Go in the Woods",
+    "summary": "Os irmãos caçam um monstro difícil de identificar, enquanto Jack se aproxima de jovens da cidade.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1613417/supernatural-14x16-dont-go-in-the-woods"
+  },
+  {
+    "key": "14x17",
+    "season": 14,
+    "number": 17,
+    "title": "Noite de Jogo",
+    "original_title": "Game Night",
+    "summary": "Um pedido de socorro de Donatello reúne Mary e Dean, enquanto Jack explora seus poderes.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1621589/supernatural-14x17-game-night"
+  },
+  {
+    "key": "14x18",
+    "season": 14,
+    "number": 18,
+    "title": "Ausência",
+    "original_title": "Absence",
+    "summary": "Sam e Dean procuram Mary após um acontecimento grave envolvendo Jack.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1623904/supernatural-14x18-absence"
+  },
+  {
+    "key": "14x19",
+    "season": 14,
+    "number": 19,
+    "title": "Caixa Surpresa",
+    "original_title": "Jack in the Box",
+    "summary": "Ataques com aparência bíblica levam os irmãos e Castiel a procurar uma forma de conter Jack.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1623905/supernatural-14x19-jack-in-the-box"
+  },
+  {
+    "key": "14x20",
+    "season": 14,
+    "number": 20,
+    "title": "Moriah",
+    "original_title": "Moriah",
+    "summary": "Chuck oferece uma solução para a crise com Jack, mas suas intenções geram desconfiança.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1623906/supernatural-14x20-moriah"
+  },
+  {
+    "key": "15x01",
+    "season": 15,
+    "number": 1,
+    "title": "De Volta e Para o Futuro",
+    "original_title": "Back and to the Future",
+    "summary": "Almas soltas do Inferno ameaçam uma cidade, e os irmãos tentam conter o primeiro avanço.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1648840/supernatural-15x01-back-and-to-the-future"
+  },
+  {
+    "key": "15x02",
+    "season": 15,
+    "number": 2,
+    "title": "Criar o Inferno",
+    "original_title": "Raising Hell",
+    "summary": "Rowena ajuda a manter os fantasmas isolados enquanto Chuck prepara outros movimentos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1705681/supernatural-15x02-raising-hell"
+  },
+  {
+    "key": "15x03",
+    "season": 15,
+    "number": 3,
+    "title": "A Ruptura",
+    "original_title": "The Rupture",
+    "summary": "O grupo enfrenta uma missão no Inferno para fechar a fenda por onde as almas escapam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1705887/supernatural-15x03-the-rupture"
+  },
+  {
+    "key": "15x04",
+    "season": 15,
+    "number": 4,
+    "title": "Monstros Atômicos",
+    "original_title": "Atomic Monsters",
+    "summary": "Uma morte atribuída a vampiros leva os Winchester a investigar os segredos de uma família.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1705888/supernatural-15x04-atomic-monsters"
+  },
+  {
+    "key": "15x05",
+    "season": 15,
+    "number": 5,
+    "title": "Provérbios 17:3",
+    "original_title": "Proverbs 17:3",
+    "summary": "Uma série de vítimas sem coração leva Sam e Dean a um caso que parece familiar.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1743844/supernatural-15x05-proverbs-173"
+  },
+  {
+    "key": "15x06",
+    "season": 15,
+    "number": 6,
+    "title": "Tempo de Ouro",
+    "original_title": "Golden Time",
+    "summary": "Castiel investiga a morte de um menino, enquanto Sam procura um feitiço deixado por Rowena.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1744999/supernatural-15x06-golden-time"
+  },
+  {
+    "key": "15x07",
+    "season": 15,
+    "number": 7,
+    "title": "Última Chamada",
+    "original_title": "Last Call",
+    "summary": "Dean faz uma caçada com um velho amigo, e a saúde de Sam preocupa os aliados.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1756797/supernatural-15x07-last-call"
+  },
+  {
+    "key": "15x08",
+    "season": 15,
+    "number": 8,
+    "title": "Pai Nosso, Que Não Está no Céu",
+    "original_title": "Our Father, Who Aren't in Heaven",
+    "summary": "Os irmãos descem ao Inferno em busca de uma fraqueza de Chuck e reencontram alguém da família.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1760313/supernatural-15x08-our-father-who-arent-in-heaven"
+  },
+  {
+    "key": "15x09",
+    "season": 15,
+    "number": 9,
+    "title": "A Armadilha",
+    "original_title": "The Trap",
+    "summary": "Sam e Dean enfrentam revelações sobre Chuck e tentam encontrar uma saída para seu plano.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1760315/supernatural-15x09-the-trap"
+  },
+  {
+    "key": "15x10",
+    "season": 15,
+    "number": 10,
+    "title": "A Jornada dos Heróis",
+    "original_title": "The Heroes' Journey",
+    "summary": "Ao ajudar um velho amigo, os irmãos percebem que sua sorte e suas habilidades parecem falhar.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1760503/supernatural-15x10-the-heroes-journey"
+  },
+  {
+    "key": "15x11",
+    "season": 15,
+    "number": 11,
+    "title": "Os Jogadores",
+    "original_title": "The Gamblers",
+    "summary": "Uma partida de sinuca pode decidir o destino dos Winchester, enquanto Castiel segue outra pista.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1760504/supernatural-15x11-the-gamblers"
+  },
+  {
+    "key": "15x12",
+    "season": 15,
+    "number": 12,
+    "title": "Cérebro de Galáxia",
+    "original_title": "Galaxy Brain",
+    "summary": "Uma operação de resgate reúne caçadores e aliados, antes de uma visita inesperada ao bunker.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1760505/supernatural-15x12-galaxy-brain"
+  },
+  {
+    "key": "15x13",
+    "season": 15,
+    "number": 13,
+    "title": "Filho do Destino",
+    "original_title": "Destiny's Child",
+    "summary": "Uma busca por vantagem contra Deus revela segredos de Jo e Ruby.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1760506/supernatural-15x13-destinys-child"
+  },
+  {
+    "key": "15x14",
+    "season": 15,
+    "number": 14,
+    "title": "Ultimo Feriado",
+    "original_title": "Last Holiday",
+    "summary": "Uma ninfa que mora no bunker decide cuidar dos irmãos e defender sua nova família.",
+    "level": 1,
+    "source_url": "https://www.tvmaze.com/episodes/1797166/supernatural-15x14-last-holiday"
+  },
+  {
+    "key": "15x15",
+    "season": 15,
+    "number": 15,
+    "title": "Dê-me Abrigo",
+    "original_title": "Gimme Shelter",
+    "summary": "Castiel e Jack investigam crimes ligados a uma igreja, enquanto Sam e Dean procuram Amara.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1793214/supernatural-15x15-gimme-shelter"
+  },
+  {
+    "key": "15x16",
+    "season": 15,
+    "number": 16,
+    "title": "Arraste-me Para Longe (De Você)",
+    "original_title": "Drag Me Away (From You)",
+    "summary": "A morte de um amigo de infância reabre uma caça que os irmãos julgavam encerrada.",
+    "level": 2,
+    "source_url": "https://www.tvmaze.com/episodes/1797167/supernatural-15x16-drag-me-away-from-you"
+  },
+  {
+    "key": "15x17",
+    "season": 15,
+    "number": 17,
+    "title": "Unidade",
+    "original_title": "Unity",
+    "summary": "Dean e Jack seguem um plano contra Chuck, mas Sam e Castiel questionam o preço da missão.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1797168/supernatural-15x17-unity"
+  },
+  {
+    "key": "15x18",
+    "season": 15,
+    "number": 18,
+    "title": "Desespero",
+    "original_title": "Despair",
+    "summary": "Os aliados executam o plano contra Chuck enquanto suas perdas se acumulam.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1797169/supernatural-15x18-despair"
+  },
+  {
+    "key": "15x19",
+    "season": 15,
+    "number": 19,
+    "title": "Herdar a Terra",
+    "original_title": "Inherit the Earth",
+    "summary": "A batalha decisiva contra Chuck coloca tudo em risco para os irmãos.",
+    "level": 4,
+    "source_url": "https://www.tvmaze.com/episodes/1797170/supernatural-15x19-inherit-the-earth"
+  },
+  {
+    "key": "15x20",
+    "season": 15,
+    "number": 20,
+    "title": "Carry On",
+    "original_title": "Carry On",
+    "summary": "Depois do grande conflito, Sam e Dean voltam à estrada para uma última caçada.",
+    "level": 3,
+    "source_url": "https://www.tvmaze.com/episodes/1753661/supernatural-15x20-carry-on"
+  }
+]
